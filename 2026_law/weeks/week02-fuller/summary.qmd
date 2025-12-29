@@ -1,3 +1,51 @@
 # Legal Jurisdiction
 
-How far does the reach of the law extend?
+## Overview
+- Setting: City of Nineveh
+- Theme: Law
+- Level Range: 1
+- Hook:
+
+## Background
+- Key history:
+- Important factions:
+- Major conflicts:
+
+## Adventure Summary
+- Act 1:
+- Act 2:
+- Act 3:
+
+## Key Locations
+### Location 1
+- Description:
+- Features:
+- Encounters:
+
+### Location 2
+- Description:
+- Features:
+- Encounters:
+
+## NPCs
+### NPC Name
+- Role:
+- Motivation:
+- Personality:
+- Stat reference:
+
+## Encounters
+### Encounter Name
+- Description:
+- Creatures:
+- Objective:
+- Rewards:
+
+## Magic Items
+- Item name:
+- Description:
+- Rarity:
+
+## Resolution
+- Possible outcomes:
+- Future hooks:
