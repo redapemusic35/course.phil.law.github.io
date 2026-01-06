@@ -1,0 +1,27 @@
+---
+title: "Philosophy of Law Outline"
+format:
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+---
+
+# Natural Law
+
+## Finnis, The Classical Tradition
+
+1. Classical Natural Law Theory
+  1. Despite the variety of opinions and practices, there are still some true and valid opinions of right conduct. Does not derive an ought from an is. What is important is judging for yourself what is true. Individually and Socially.
+  2. Adheres to four irreducible ordered theories: a) nature, laws of nature, natural sciences and metaphysics. b) ordered thinking. c) reasoned thinking, i.e., morality. d) our ability to align our behaviors with our reasoned thinking and deliberations.
+  3. 1 and 2 are dependent on a metaphysics of persons. That there is something about persons that distinguishes them from non-persons.
+2. The Modern law tradition
+  1. Contemporary, rejects the metaphysics of persons thesis that the classical tradition holds.
+  2. Ought is explained by acts of will. For Hobbes and others like him, the will of a sovereign, for Kantians, the will is of categorical imperative.
+  3. Modern holds 'natural rights' thesis.
+3. Exclusive Legal Posivism
+  1. Kelsen: Settled laws are the only standards of action.
+  2. We should study law as a set of social facts, held separately from moral facts.
+  3. Raz: Settled law sometimes is backed by moral law.
+4. Inclusive Legal Positivism
+  1.

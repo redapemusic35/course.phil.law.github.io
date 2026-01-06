@@ -4,14 +4,14 @@ subtitle: "Academic Year: 2025/26"
 format: html
 ---
 
-What are our own encounters with works of art and creativity? What counts as representational art? What about video games? Are they art? Is Beyonce a country artist? If something is currated by an algorithm, does it too count as art? As we explore these questions, we will also discuss personalized artistic experiences made possible through complex algorithms, individual vs. communal experiences, and whether these change the nature of art and other emerging phenomena related to the art world.
+In general, philosophy requires one to apply principles of reasoning to different philosophical issues. Accordingly, one of my goals in this course is to help you improve your critical reasoning skills. These skills are useful not only with respect to this class, but to other philosophy and law classes as well. A second goal of mine is to teach you some of the fundamental philosophical ideas behind much of that which we call law.
 
 ::: {.callout-important collapse=false}
 ## 📢 Important
 
 (01/16/2026)
 
-- [🗓️ Week 02 lecture material](/2025-aesthetics/weeks/week02/page.qmd) is now available!
+- [🗓️ Week 02 lecture material](./2026_law/weeks/week02/page.qmd) is now available!
 
 :::
 
@@ -30,7 +30,7 @@ What are our own encounters with works of art and creativity? What counts as rep
 
 Office Hours:
 
-- When: TTH 1:00-4:00pm or by appointment
+- When: TTH 1:00-3:00pm or by appointment
 - Where: Elizabeth Hall 104
 - How to book: Drop in, email, or book via [Microsoft Bookings](https://outlook.office.com/bookwithme/user/59570715559b43fdabc651a89a3ed839@stetson.edu?anonymous&ismsaljsauthenabled&ep=plink)
 
@@ -168,6 +168,47 @@ Grading Scale (equal increments of 8 points):
 | Support | The premises clearly support the thesis, and the author is aware of exactly the kind of support they provide. The argument is either valid as it stands, or, if invalid, the thesis, based on the premises, is likely to be or plausibly true. | The premises support the thesis, and the author is aware of the general kind of support they provide. The argument is either valid as it stands, or, if invalid, the thesis, based on the premises, is likely to be or plausibly true. | The premises somewhat support the thesis, but the author is not aware of the kind of support they provide. The argument is invalid, and the thesis, based on the premises, is not likely to be or plausibly true. | The premises do not support the thesis. |
 | Student Response | The paper considers both obvious and unobvious counter-examples, counter-arguments, and/or opposing positions, and provides original and/or thoughtful responses. | The paper considers obvious counter-examples, counter-arguments, and/or opposing positions, and provides responses. | The paper may consider some obvious counter-examples, counter-arguments, and/or opposing positions, but some obvious ones are missed. Responses are non-existent or mere claims of refutation. | No counter-examples, counter-arguments, or opposing positions are considered. |
 
+## Course Schedule
+
+Here is the syllabus formatted as a clean Markdown table using only the vertical line `|` as the separator (with a properly spanned title row):
+
+| Day | Date | Discussion |
+| --- | --- | --- |
+| Tuesday | January 13 | Introduction to Philosophy of Law and Organization of Class |
+| Thursday | January 15 | Fuller, "The Case of the Speluncean Explorers" (Handout - Canvas) |
+| Tuesday | January 23 | Kretzmann, “Lex Iniusta Non Est Lex: Laws on Trial” (Handout – Canvas) |
+| Thursday | January 25 | Bentham, “The Principles of Morals and Legislation” (Handout – D2L) |
+| Tuesday | January 30 | Bentham (Continued) |
+| Thursday | February 1 | Hart, “Law as the Union of Primary and Secondary Rules” (crc, 53) |
+| Tuesday | February 6 | Hart (Continued) |
+| Thursday | February 8 | Dworkin, “The Model of Rules” (148) |
+| Tuesday | February 13 | Dworkin, “Integrity in Law” (169) |
+| Thursday | February 15 | Holmes, “The Path of the Law” (197); Frank, “Legal Realism” (205) |
+| Tuesday | February 20 | Critical Legal Studies (Handout – D2L) |
+| Thursday | February 22 | Plato, Crito (Handout – D2L) |
+| Tuesday | February 27 | Crito (Continued) |
+| Thursday | March 1 | Wrap-up Part 1 |
+| Tuesday | March 6 | Examination 1 |
+| Thursday | March 8 | Hart, “Postscript: Responsibility and Retribution” (317) |
+| Tuesday | March 13 | Duff, “Choice, Character, and Action” (328) |
+| Thursday | March 15 | Parker, “Blame, Punishment and the Role of Result” (Handout – D2L) |
+| Tuesday | March 20 | Spring Break |
+| Thursday | March 22 | Spring Break |
+| Tuesday | March 27 | Self Defense (Handout – D2L) |
+| Thursday | March 29 | Self Defense (Continued) |
+| Tuesday | April 3 | Excuse, Justification, Subjective/Objective Liability (Handout – D2L) |
+| Thursday | April 5 | Mill, “On Liberty” (258) |
+| Tuesday | April 10 | Dworkin, “Paternalism” (271); Griswold v. Connecticut (summary on www) |
+| Thursday | April 12 | Devlin, “Morals and the Criminal Law” (283) |
+| Tuesday | April 17 | “The Moral Significance of Terrorism” (Handout – D2L) |
+| Thursday | April 19 | Dershowitz, “Should the Ticking Bomb Terrorist be Tortured” (Paper Due at End of Class) |
+| Tuesday | April 24 | Bork, “The Original Understanding” (Handout – D2L) |
+| Thursday | April 26 | Bork (Continued) |
+| Tuesday | May 1 | TBD – Student Input Requested |
+| Thursday | May 3 | Wrap-Up and Review |
+
+Final Examination: Tuesday, May 8th, 10:00 – 11:50
+
 ## Grading Calculation
 
 Total Points: 640 points, distributed as above.
@@ -206,7 +247,7 @@ See Class Times Below
 
 ::: {style="display:inline-block;width: 28.5%;border-style: dotted;border-width: 1px;border-color: &quot;#fefefe&quot;; margin:1%;padding:1.5%;background-color:#fafafa"}
 
-- 📆 Mondays and Wednesdays
-- ⌚ 10:30am - 11:45am
+- 📆 Tuesdays and Thursdays
+- ⌚ 11:30am - 12:45am
 
 :::

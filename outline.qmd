@@ -1,0 +1,84 @@
+---
+title: "Philosophy of Law Outline"
+format:
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+---
+
+# Natural Law
+
+## Classical
+
+John Finnis
+
+> This article presents the reality of law, both as a ‘social phenomenon’ and as a
+characteristic kind of ‘reason for action’. It mentions the response to the problems of social life that involves
+creation of new norms and institutions by the manipulation of language and of other conventional devices such as
+voting systems and jurisdictional boundaries. The discussion of authority underlines the importance of positivism to
+provide any account of it that could rationally satisfy those whom law most concerns. The classical theory of
+natural law is open to development and new insights in every dimension.
+
+### Classical Natural Law
+
+Natural:
+
+1. a) Strong Selfish vs. b) Weak and Pro-Social
+2. But 1 a is unreasonble, not moderated by reason and therefore needs external regulation, not internal.
+3. Therefore 1 is unnatural since it is unreasonable.
+
+Law then is natural
+
+1. Self and societal judgment about what is reasonable.
+2. Ought from 'is'. 1 should not be confused with a derivative where one considers the way things are and deduces a normative state, how things 'should' be. Morality cannot be derived from laws of nature. The law of nature and the moral law are two different things.
+3. Maintains a strong distinction between persons and non-persons.
+
+### Modern, not Contempoary Theory of Natural Law
+
+>  the modern tradition of natural law theory emerges clearly by 1660,
+when Samuel Pufendorf published in The Hague his Elements of Universal Jurisprudence4. Characteristic features
+of this kind of natural law theory can be studied there, or in Pufendorf 's fuller treatise On the Law of Nature and of
+Nations (1672),5 or in John Locke's long-unpublished Questions concerning the Law of Nature6 dating apparently
+from around1660to1664. Both writers are clearly derivative in some ways from Hugo Grotius and in other ways
+from Thomas Hobbes. Very tellingly, Pufendorf prominently describes Hobbes's De Cive (1642) (on being a citizen),
+which anticipates the moral and jurisprudential substance of Hobbes's more famous Leviathan (1651), as ‘for the
+most part extremely acute and sound’7
+
+1. Natural law means conformity to rational nature.
+
+> From Grotius's massively influential On the Law of War and Peace (1625), Locke and Pufendorf take the well-
+sounding but quite opaque idea that morality and the law's basic principles are a matter of ‘conformity to rational
+nature’.
+
+But there are two interpretations of rationality at work in the modern period:
+
+#### Hobbes
+
+Reason conforms to sub-rational processes such as the fear of death, which will motivate persons to give up their natural rights in exchange for saftey:
+
+> But his answers treat our practical reasoning as all in the service of sub-rational passions such as fear of death, and desire to surpass others—motivations of the very kind identified by the classical tradition as in need of direction by our reason's grasp of more ultimate and better ends, of true and intrinsic goods, of really intelligent reasons for action.
+
+> Thomas Hobbes (1588–1679) affirmed the existence of natural law,67 but stated that individuals entering civil
+society will voluntarily surrender their rights to act on (their own interpretations of) it . . . [Bix, 52]
+
+#### Kant
+
+Similarly to Hobbes believes that our reason conforms to sub-rational processes, but for Kant, these are rooted in a distinction between intrinsic goods and extrinsic goods. Hobbes believes we are motivated by extrinsic goods, Kant however thinks we are motivated by intrinsic ones:
+
+> In the end, like Locke and Hume, Kant remains firmly in the grip of the assumption that what motivates us towards
+one purpose rather than another is our sub-rational passions. He lacks almost all the building blocks of classical
+natural law theory, the substantive first principles—basic reasons for action—that direct us towards bodily life and
+health, marriage, friendship, knowledge, and so forth, as the intrinsic human goods which give us reasons
+(intelligent, not merely passionate motives) for action, and which, as aspects of our humanity as flesh-and-blood
+persons, are to be treated always as ends and never as mere means.
+
+### Classical vs. Modern Tradition
+
+The difference between classical natural law and modern natural law then is an understanding of what makes a person a person. For the classical theorist, a person is defined by their unique capacity to reason, while the modernist understands a person who persues external or intrinsic *goods* in a characteristic way.
+
+## Modern
+
+Brian Bix
+
+> This article deals with two different types of natural law—natural law as moral/political theory and natural law as legal/social theory—as connected at a basic level. It discusses two lines of thought, natural law and natural rights, as interchangeable, or closely connected and reflects a modern perspective. The most important idea modern natural law theorists have brought to jurisprudence is that views of law that take into account law's moral aspirations offer a better understanding of social institution.

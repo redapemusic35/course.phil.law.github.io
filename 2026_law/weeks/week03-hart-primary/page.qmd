@@ -1,11 +1,11 @@
 ---
-title: "🗓️ Week 01"
+title: "🗓️ Week 03 - Hart"
 ---
 
 | Day | Date | Discussion |
 | --- | --- | --- |
-|  |  | **Syllabus (Subject to Modification)** |
-| Tuesday | January 13 | Introduction to Philosophy of Law and Organization of Class |
+| Thursday | February 1 | Hart, “Law as the Union of Primary and Secondary Rules” (crc, 53) |
+| Tuesday | February 6 | Hart (Continued) |
 
 ## 👨‍🏫 Lecture Slides
 
@@ -16,7 +16,7 @@ Use your keypad to navigate the slides.
 <iframe src="slides.html" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
 </div>
 
-🎥 Looking for lecture recordings? You can only find those on Moodle.
+🎥 Looking for lecture recordings? You can find them on Canvas.
 
 ## ✍️ Coursework
 
@@ -29,4 +29,4 @@ Use your keypad to navigate the slides.
 
 ## 📟 Communication
 
-- If you feel like it, introduce yourself in the `#introductions` channel on Slack
+- If you feel like it, introduce your 'selves' in the `#introductions` channel in [Discussions](https://stetson.instructure.com/courses/38093/discussion_topics/162462)

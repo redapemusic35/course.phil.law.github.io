@@ -1,11 +1,10 @@
 ---
-title: "🗓️ Week 01"
+title: "🗓️ Week 8 - Liability"
 ---
 
 | Day | Date | Discussion |
 | --- | --- | --- |
-|  |  | **Syllabus (Subject to Modification)** |
-| Tuesday | January 13 | Introduction to Philosophy of Law and Organization of Class |
+| Tuesday | April 3 | Excuse, Justification, Subjective/Objective Liability (Handout – D2L) |
 
 ## 👨‍🏫 Lecture Slides
 
@@ -15,8 +14,6 @@ Use your keypad to navigate the slides.
 <div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
 <iframe src="slides.html" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
 </div>
-
-🎥 Looking for lecture recordings? You can only find those on Moodle.
 
 ## ✍️ Coursework
 
