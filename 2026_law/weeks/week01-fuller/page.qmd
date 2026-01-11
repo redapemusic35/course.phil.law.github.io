@@ -15,7 +15,7 @@ Download the reading [here:](../../../readings/1_Fuller-CaseSpelunceanExplorers-
 
 
 <div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
-<iframe src="../../../readings/1_Fuller-CaseSpelunceanExplorers-1949.pdf" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
+<iframe src="https://eclass.uoa.gr/modules/document/file.php/PPP641/%CE%95%CE%BD%CF%8C%CF%84%CE%B7%CF%84%CE%B1%208%CE%B7%3A%20%CE%A6%CE%AC%CE%BA%CE%B5%CE%BB%CE%BF%CF%82%20%CE%9C%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%BF%CF%82/Fuller_The%20Case%20of%20the%20Speluncean%20Explorers.pdf" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
 </div>
 
 Use your keypad to navigate the slides.

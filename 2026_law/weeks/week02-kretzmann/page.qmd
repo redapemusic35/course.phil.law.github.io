@@ -20,7 +20,7 @@ Use your keypad to navigate the slides.
 Download the Reading here:
 
 <div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
-<iframe src="../../../readings/philosophy of law/2026_readings/Kretzmann.pdf" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
+<iframe src="https://heinonline.org/HOL/P?h=hein.journals/ajj33&i=103" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
 </div>
 
 ## ✍️ Coursework

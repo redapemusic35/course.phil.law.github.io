@@ -52,7 +52,7 @@ website:
               - href: 2026_law/weeks/week02-kretzmann/appendix.qmd
                 text: "Appendix"
           - href: 2026_law/weeks/week02-bentham/page.qmd
-            text: Week 3, Bentham
+            text: Week 2, Bentham
             contents:
               - href: 2026_law/weeks/week02-bentham/page.qmd
                 text: "Discussion Material"
@@ -250,7 +250,7 @@ website:
     background: light
     left: "Copyright 2025, Montaque Reynolds"
 
-bibliography: ./My-Library.bib
+bibliography: ./Un-Duplicates.bib
 csl: references/chicago-author-date.csl
 
 format:
