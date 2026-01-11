@@ -1,5 +1,5 @@
 ---
-title: "PHIL343A - Aesthetics"
+title: "Philosophy of Law"
 subtitle: "Academic Year: 2025/26"
 format: html
 ---

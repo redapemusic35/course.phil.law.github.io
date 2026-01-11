@@ -1,0 +1,438 @@
+{
+  "generated": "2025-12-22T12:56:48.692Z",
+  "timeRange": "Last 30 days",
+  "project": "All Projects",
+  "metrics": {
+    "total": 47,
+    "completed": 0,
+    "pending": 47,
+    "overdue": 2,
+    "completionRate": "0.0",
+    "avgCompletionTime": "0.0"
+  },
+  "tasks": [
+    {
+      "description": "Market the app to neurodivergent communities to increase user adoption and gather more feedback",
+      "status": "pending",
+      "project": "Taskflow app",
+      "priority": null,
+      "created": "2025-12-22T12:56:16.249000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Evaluate the feasibility of introducing a paid tier to prevent cloning of the app",
+      "status": "pending",
+      "project": "Taskflow app",
+      "priority": null,
+      "created": "2025-12-22T12:56:16.095000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Implement a plan for monetizing the app, considering options for user donations",
+      "status": "pending",
+      "project": "Taskflow app",
+      "priority": null,
+      "created": "2025-12-22T12:56:15.952000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Resolve any issues related to task duplication across user accounts based on feedback",
+      "status": "pending",
+      "project": "Taskflow app",
+      "priority": null,
+      "created": "2025-12-22T12:56:15.800000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Gather feedback from beta users on any remaining bugs or issues",
+      "status": "pending",
+      "project": "Taskflow app",
+      "priority": null,
+      "created": "2025-12-22T12:56:15.613000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Conduct thorough testing of collaboration tools to ensure they work correctly",
+      "status": "pending",
+      "project": "Taskflow app",
+      "priority": null,
+      "created": "2025-12-22T12:56:15.470000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Fix the add to calendar button and test for functionality",
+      "status": "pending",
+      "project": "Taskflow app",
+      "priority": null,
+      "created": "2025-12-22T12:56:15.292000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Upload finalized courses to Coursera and complete all required submission forms",
+      "status": "pending",
+      "project": "Coursera development ",
+      "priority": null,
+      "created": "2025-12-21T13:13:00.681000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Review and edit both courses for clarity and coherence",
+      "status": "pending",
+      "project": "Coursera development ",
+      "priority": null,
+      "created": "2025-12-21T13:13:00.466000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Develop course content for the introduction to philosophy course, including lectures, readings, and assessments",
+      "status": "pending",
+      "project": "Coursera development ",
+      "priority": null,
+      "created": "2025-12-21T13:13:00.273000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Develop course content for the philosophy of law course, including lectures, readings, and assessments",
+      "status": "pending",
+      "project": "Coursera development ",
+      "priority": null,
+      "created": "2025-12-21T13:13:00.085000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Create a detailed timeline allocating specific days for developing each module and associated activities",
+      "status": "pending",
+      "project": "Coursera development ",
+      "priority": null,
+      "created": "2025-12-21T13:12:59.907000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Outline the key topics and learning objectives for the introduction to philosophy course",
+      "status": "pending",
+      "project": "Coursera development ",
+      "priority": null,
+      "created": "2025-12-21T13:12:59.645000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Upload finalized courses to Coursera and complete all required submission forms",
+      "status": "pending",
+      "project": "Coursera development ",
+      "priority": null,
+      "created": "2025-12-21T13:12:59.515000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Outline the key topics and learning objectives for the philosophy of law course",
+      "status": "pending",
+      "project": "Coursera development ",
+      "priority": null,
+      "created": "2025-12-21T13:12:59.470000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Review and edit both courses for clarity and coherence",
+      "status": "pending",
+      "project": "Coursera development ",
+      "priority": null,
+      "created": "2025-12-21T13:12:59.309000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Develop course content for the introduction to philosophy course, including lectures, readings, and assessments",
+      "status": "pending",
+      "project": "Coursera development ",
+      "priority": null,
+      "created": "2025-12-21T13:12:58.978000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Develop course content for the philosophy of law course, including lectures, readings, and assessments",
+      "status": "pending",
+      "project": "Coursera development ",
+      "priority": null,
+      "created": "2025-12-21T13:12:58.711000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Create a detailed timeline allocating specific days for developing each module and associated activities",
+      "status": "pending",
+      "project": "Coursera development ",
+      "priority": null,
+      "created": "2025-12-21T13:12:58.503000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Outline the key topics and learning objectives for the introduction to philosophy course",
+      "status": "pending",
+      "project": "Coursera development ",
+      "priority": null,
+      "created": "2025-12-21T13:12:58.314000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Outline the key topics and learning objectives for the philosophy of law course",
+      "status": "pending",
+      "project": "Coursera development ",
+      "priority": null,
+      "created": "2025-12-21T13:12:58.064000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Upload finalized courses to Coursera and complete all required submission forms",
+      "status": "pending",
+      "project": "Coursera development ",
+      "priority": null,
+      "created": "2025-12-21T13:12:55.611000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Review and edit both courses for clarity and coherence",
+      "status": "pending",
+      "project": "Coursera development ",
+      "priority": null,
+      "created": "2025-12-21T13:12:55.353000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Develop course content for the introduction to philosophy course, including lectures, readings, and assessments",
+      "status": "pending",
+      "project": "Coursera development ",
+      "priority": null,
+      "created": "2025-12-21T13:12:55.154000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Develop course content for the philosophy of law course, including lectures, readings, and assessments",
+      "status": "pending",
+      "project": "Coursera development ",
+      "priority": null,
+      "created": "2025-12-21T13:12:54.869000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Create a detailed timeline allocating specific days for developing each module and associated activities",
+      "status": "pending",
+      "project": "Coursera development ",
+      "priority": null,
+      "created": "2025-12-21T13:12:54.583000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Outline the key topics and learning objectives for the introduction to philosophy course",
+      "status": "pending",
+      "project": "Coursera development ",
+      "priority": null,
+      "created": "2025-12-21T13:12:54.381000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Outline the key topics and learning objectives for the philosophy of law course",
+      "status": "pending",
+      "project": "Coursera development ",
+      "priority": null,
+      "created": "2025-12-21T13:12:54.178000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Review and test all changes made for the bucket, calendar, format, and expandable field issues to ensure they work correctly together.",
+      "status": "pending",
+      "project": "Clear",
+      "priority": null,
+      "created": "2025-12-21T09:14:13.971000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Develop and test the implementation for the expandable dependency field feature.",
+      "status": "pending",
+      "project": "Clear",
+      "priority": null,
+      "created": "2025-12-21T09:14:13.754000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Deploy the changes to the live environment and monitor for any issues post-deployment.",
+      "status": "pending",
+      "project": "Clear",
+      "priority": null,
+      "created": "2025-12-21T09:14:14.188000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Create a plan to implement an expandable option for the dependency field on the homepage.",
+      "status": "pending",
+      "project": "Clear",
+      "priority": null,
+      "created": "2025-12-21T09:14:13.505000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Resolve the format issue for the 'Add to Calendar' button by checking HTML and CSS code.",
+      "status": "pending",
+      "project": "Clear",
+      "priority": null,
+      "created": "2025-12-21T09:14:13.262000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Analyze the calendar issue to determine if it's due to backend data or frontend display errors.",
+      "status": "pending",
+      "project": "Clear",
+      "priority": null,
+      "created": "2025-12-21T09:14:13.024000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Investigate and identify the root cause of the bucket issue on the homepage.",
+      "status": "pending",
+      "project": "Clear",
+      "priority": null,
+      "created": "2025-12-21T09:14:12.813000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Conduct a final testing phase to ensure all changes (bucket, calendar, and button) are functioning as expected before deployment.",
+      "status": "pending",
+      "project": "Clear",
+      "priority": null,
+      "created": "2025-12-21T09:13:05.791000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Correct the format issue for the 'Add to Calendar' button to ensure it aligns with design specifications.",
+      "status": "pending",
+      "project": "Clear",
+      "priority": null,
+      "created": "2025-12-21T09:13:05.372000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Review the current implementation of the 'Add to Calendar' button and identify any formatting issues.",
+      "status": "pending",
+      "project": "Clear",
+      "priority": null,
+      "created": "2025-12-21T09:13:05.100000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Fix the calendar issue based on the documented errors and verify that it updates and displays events correctly.",
+      "status": "pending",
+      "project": "Clear",
+      "priority": null,
+      "created": "2025-12-21T09:13:04.907000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Test the calendar issue to understand how it is malfunctioning and document the errors encountered.",
+      "status": "pending",
+      "project": "Clear",
+      "priority": null,
+      "created": "2025-12-21T09:13:04.717000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Implement the necessary changes to resolve the bucket issue, ensuring it now displays items correctly.",
+      "status": "pending",
+      "project": "Clear",
+      "priority": null,
+      "created": "2025-12-21T09:13:04.507000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Investigate and identify the root cause of the bucket issue on the home page.",
+      "status": "pending",
+      "project": "Clear",
+      "priority": null,
+      "created": "2025-12-21T09:13:03.924000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "I need to fix the bucket issue, the calendar issue, the format issue for the add to cal button on the home page. Make the dependency field expandable. ",
+      "status": "pending",
+      "project": "Clear",
+      "priority": "",
+      "created": "2025-12-21T03:08:11.270000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "Look at the app test out the different features and give me your opinion",
+      "status": "pending",
+      "project": "Clear",
+      "priority": "",
+      "created": "2025-12-20T12:31:59.396000",
+      "completed": null,
+      "due": "2025-12-20T00:00:00.000Z"
+    },
+    {
+      "description": "Prinz guts emotions for learning 7  @office",
+      "status": "pending",
+      "project": null,
+      "priority": null,
+      "created": "2025-12-15T12:31:01.566000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "look for submission candidates",
+      "status": "pending",
+      "project": "papers.moral-privilege",
+      "priority": null,
+      "created": "2025-12-06T03:19:10.884000",
+      "completed": null,
+      "due": null
+    },
+    {
+      "description": "World of possibilities",
+      "status": "pending",
+      "project": "papers.moral-privilege",
+      "priority": "",
+      "created": "2025-11-26T16:16:22.534000",
+      "completed": null,
+      "due": "2025-12-03T00:00:00.000Z"
+    }
+  ]
+}

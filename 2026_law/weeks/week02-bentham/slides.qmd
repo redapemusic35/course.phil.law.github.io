@@ -1,6 +1,6 @@
 ---
-subtitle: "PHIL343A -- Aesthetics"
-title: "<font style='font-size:1em;'>🗓️ Week 03<br/> On Mimesis</font>"
+subtitle: "Lex Inuista Non Est Lex: Laws on Trial"
+title: "<font style='font-size:1em;'>🗓️ Week 03<br/> Kretzmann</font>"
 author: Prof. [Reynolds](#)
 institute: '[Stetson University](#)'
 date: 02 September 2026
@@ -8,7 +8,6 @@ date-meta: 14 March 2023
 date-format: "DD MMM YYYY"
 toc: false
 toc-depth: 1
-toc-title: "Argument Forms, Formalization, Formation Rules:"
 center-title-slide: false
 from: markdown+emoji
 format:
@@ -25,60 +24,25 @@ format:
     footer: 'PHIL104Q -- Introduction to Logic'
 ---
 
-# Eros
+# The Nature of Law
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JXi79RGTXiA?si=tsNd4lk8aDPTKRyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Initial Interpretation
 
----
+1. Laws == State's System of Justice.
+2. Sometimes private citizens decide a particular state law is unjust.
+3. Natural law: there is some rule of measurement external to the state's system of justice.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VvlTwSWyqUM?si=VuW80gvi99pQrbc3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## The Question
 
----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PbFx6FRxJtg?si=psRYTxmtbiBA_hmV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-::: {.notes}
-
-Prologue: Apollodorus to a companion (unclear who it is):
-
-Tells story about being hailed by Aristademus. Aristedemus wants to know about a banquet Appollodorus attended.
-
-:::
+> Is an individual citizen entitled or obliged to decide whether a law of the state is unjust? If so, on what grounds is he or she supposed to make the decision?
 
 ---
 
-Speeches in honor of Eros.
+* What is the rule of measurement the individual citizen uses?
+* Does the individual citizen get to decide?
+* Is the individual citizen obliged to decide?
+* What can she do if a given law is unjust?
 
-* Phaedrus
+---
 
-* Pausinias
-
-* Eryximachus
-
-* Aristophanes
-
-* Agathon
-
-* Socrates
-
-* Alcibiades
-
-## Phaedrus
-
-Eros is a god without parents and gives the greatest goods
-
-* The greatest good is a worthy lover and a beloved
-
-* Because the beloved makes the lover ambitious.
-
-* A beautiful life is only characterized by what the beloved provides to the lover.
-
-## Pausinias
-
-* Eros is two because without Aphrodite, there is no Eros.
-
-* Vulgar and Sanctified Eros
-
-* Because all actions are neither beautiful or ugly
-
-
+> And if an individual citizen has decided on appropriate grounds that a law of the state is unjust, what is she or he entitled or obliged to do about it? [@kret88, 7]

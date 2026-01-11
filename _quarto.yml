@@ -96,7 +96,7 @@ website:
                 text: "Recap and Summary"
               - href: 2026_law/weeks/week04-holmes-frank/appendix.qmd
                 text: "Appendix"
-          - href: 2026_law/weeks/week09-cls/page.qmd
+          - href: 2026_law/weeks/week05-cls/page.qmd
             text: Week 5, Critical Legal Studies
             contents:
               - href: 2026_law/weeks/week05-cls/page.qmd
@@ -204,14 +204,14 @@ website:
                 text: "Recap and Summary"
               - href: 2026_law/weeks/week10-terrorism/appendix.qmd
                 text: "Appendix"
-          - href: 2026_law/weeks/week11-dershowitz/page.qmd
+          - href: 2026_law/weeks/week10-dershowitz/page.qmd
             text: Week 11, Dershowitz
             contents:
-              - href: 2026_law/weeks/week11-dershowitz/page.qmd
+              - href: 2026_law/weeks/week10-dershowitz/page.qmd
                 text: "Discussion Material"
-              - href: 2026_law/weeks/week11-dershowitz/summary.qmd
+              - href: 2026_law/weeks/week10-dershowitz/summary.qmd
                 text: "Recap and Summary"
-              - href: 2026_law/weeks/week11-dershowitz/appendix.qmd
+              - href: 2026_law/weeks/week10-dershowitz/appendix.qmd
                 text: "Appendix"
               - href: 2026_law/paper-guidelines.qmd
                 text: "**Paper Due**"

@@ -10,6 +10,14 @@ title: "🗓️ Fuller, Speluncean Cave"
 ## 👨‍🏫 Lecture Slides
 
 Either click on the slide area below or click [here](slides.qmd) to view it in fullscreen.
+
+Download the reading [here:](../../../readings/1_Fuller-CaseSpelunceanExplorers-1949.pdf)
+
+
+<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
+<iframe src="../../../readings/1_Fuller-CaseSpelunceanExplorers-1949.pdf" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
+</div>
+
 Use your keypad to navigate the slides.
 
 <div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">

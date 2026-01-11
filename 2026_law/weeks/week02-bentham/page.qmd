@@ -18,6 +18,12 @@ Use your keypad to navigate the slides.
 
 🎥 Looking for lecture recordings? You can find them on Canvas.
 
+Download the reading:
+
+<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
+<iframe src="../../../readings/philosophy of law/2026_readings/bentham_morals.pdf" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
+</div>
+
 ## ✍️ Coursework
 
 🚧 Come back after the lecture to read the coursework instructions for the week 🚧

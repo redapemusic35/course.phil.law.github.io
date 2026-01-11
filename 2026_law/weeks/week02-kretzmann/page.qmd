@@ -15,7 +15,13 @@ Use your keypad to navigate the slides.
 <iframe src="slides.html" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
 </div>
 
-🎥 Looking for lecture recordings? You can find them on Canvas.
+🎥 Looking for lecture recordings? You can find them on Canvas.a
+
+Download the Reading here:
+
+<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
+<iframe src="../../../readings/philosophy of law/2026_readings/Kretzmann.pdf" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
+</div>
 
 ## ✍️ Coursework
 
