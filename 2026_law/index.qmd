@@ -181,7 +181,7 @@ Here is the syllabus formatted as a clean Markdown table using only the vertical
 | Tuesday | January 13 | Introduction to Philosophy of Law and Organization of Class |
 | Thursday | January 15 | Fuller, "The Case of the Speluncean Explorers" (Handout - Canvas) |
 | Tuesday | January 23 | Kretzmann, “Lex Iniusta Non Est Lex: Laws on Trial” (Handout – Canvas) |
-| Thursday | January 25 | Bentham, “The Principles of Morals and Legislation” (Handout – D2L) |
+| Thursday | January 25 | Bentham, “The Principles of Morals and Legislation” (Handout, pages 224-248 -D2L) |
 | Tuesday | January 30 | Bentham (Continued) |
 | Thursday | February 1 | Hart, “Law as the Union of Primary and Secondary Rules” (crc, 53) |
 | Tuesday | February 6 | Hart (Continued) |
