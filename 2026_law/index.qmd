@@ -180,38 +180,37 @@ Here is the syllabus formatted as a clean Markdown table using only the vertical
 | --- | --- | --- |
 | Tuesday | January 13 | Introduction to Philosophy of Law and Organization of Class |
 | Thursday | January 15 | Fuller, "The Case of the Speluncean Explorers" (Handout - Canvas) |
-| Tuesday | January 23 | Kretzmann, “Lex Iniusta Non Est Lex: Laws on Trial” (Handout – Canvas) |
-| Thursday | January 25 | Bentham, “The Principles of Morals and Legislation” (Handout, pages 224-248 -D2L) |
-| Tuesday | January 30 | Bentham (Continued) |
-| Thursday | February 1 | Hart, “Law as the Union of Primary and Secondary Rules” (crc, 53) |
-| Tuesday | February 6 | Hart (Continued) |
-| Thursday | February 8 | Dworkin, “The Model of Rules” (148) |
-| Tuesday | February 13 | Dworkin, “Integrity in Law” (169) |
-| Thursday | February 15 | Holmes, “The Path of the Law” (197); Frank, “Legal Realism” (205) |
-| Tuesday | February 20 | Critical Legal Studies (Handout – D2L) |
-| Thursday | February 22 | Plato, Crito (Handout – D2L) |
-| Tuesday | February 27 | Crito (Continued) |
-| Thursday | March 1 | Wrap-up Part 1 |
-| Tuesday | March 6 | Examination 1 |
-| Thursday | March 8 | Hart, “Postscript: Responsibility and Retribution” (317) |
-| Tuesday | March 13 | Duff, “Choice, Character, and Action” (328) |
-| Thursday | March 15 | Parker, “Blame, Punishment and the Role of Result” (Handout – D2L) |
-| Tuesday | March 20 | Spring Break |
-| Thursday | March 22 | Spring Break |
-| Tuesday | March 27 | Self Defense (Handout – D2L) |
-| Thursday | March 29 | Self Defense (Continued) |
-| Tuesday | April 3 | Excuse, Justification, Subjective/Objective Liability (Handout – D2L) |
-| Thursday | April 5 | Mill, “On Liberty” (258) |
-| Tuesday | April 10 | Dworkin, “Paternalism” (271); Griswold v. Connecticut (summary on www) |
-| Thursday | April 12 | Devlin, “Morals and the Criminal Law” (283) |
-| Tuesday | April 17 | “The Moral Significance of Terrorism” (Handout – D2L) |
-| Thursday | April 19 | Dershowitz, “Should the Ticking Bomb Terrorist be Tortured” (Paper Due at End of Class) |
-| Tuesday | April 24 | Bork, “The Original Understanding” (Handout – D2L) |
-| Thursday | April 26 | Bork (Continued) |
-| Tuesday | May 1 | TBD – Student Input Requested |
-| Thursday | May 3 | Wrap-Up and Review |
-
-Final Examination: Tuesday, May 8th, 10:00 – 11:50
+| Tuesday | January 20 | Kretzmann, “Lex Iniusta Non Est Lex: Laws on Trial” (Handout – Canvas) |
+| Thursday | January 22 | Bentham, “The Principles of Morals and Legislation” (Handout, pages 224-248 -D2L) |
+| Tuesday | January 27 | Bentham (Continued) |
+| Thursday | January 29 | Hart, “Law as the Union of Primary and Secondary Rules” (crc, 53) |
+| Tuesday | February 3 | Hart (Continued) |
+| Thursday | February 5 | Dworkin, “The Model of Rules” (148) |
+| Tuesday | February 10 | Dworkin, “Integrity in Law” (169) |
+| Thursday | February 12 | Holmes, “The Path of the Law” (197); Frank, “Legal Realism” (205) |
+| Tuesday | February 17 | Critical Legal Studies (Handout – D2L) |
+| Thursday | February 19 | Plato, Crito (Handout – D2L) |
+| Tuesday | February 24 | Crito (Continued) |
+| Thursday | February 26 | Quiz 1 |
+| Tuesday | March 3 | Spring Break |
+| Thursday | March 5 | Spring Break |
+| Tuesday | March 10 | Hart, “Postscript: Responsibility and Retribution” (317) |
+| Thursday | March 12 | Duff, “Choice, Character, and Action” (328) |
+| Tuesday | March 17 | Parker, “Blame, Punishment and the Role of Result” (Handout – D2L) |
+| Thursday | March 19 | Spring Break |
+| Tuesday | March 24 | Spring Break |
+| Thursday | March 26 | Self Defense (Handout – D2L) |
+| Tuesday | March 31 | Self Defense (Continued) |
+| Thursday | April 2 | Excuse, Justification, Subjective/Objective Liability (Handout – D2L) |
+| Tuesday | April 7 | Mill, “On Liberty” (258) |
+| Thursday | April 9 | Dworkin, “Paternalism” (271); Griswold v. Connecticut (summary on www) |
+| Tuesday | April 14 | Devlin, “Morals and the Criminal Law” (283) |
+| Thursday | April 16 | “The Moral Significance of Terrorism” (Handout – D2L) |
+| Tuesday | April 21 | Dershowitz, “Should the Ticking Bomb Terrorist be Tortured” (Paper Due at End of Class) |
+| Thursday | April 23 | Bork, “The Original Understanding” (Handout – D2L) |
+| Tuesday | April 28 | Bork (Continued), last day of classes|
+| Thursday | April 30 | Final exams, final paper due, TBD |
+| Tuesday | May 3 | Final exams TBD |
 
 ## Grading Calculation
 
