@@ -63,7 +63,67 @@ Jurisprudence is a theory about the ontological nature of law.
 
 ## Major conflicts
 
-### Truepenny, CT
+::: {.r-fit-text}
+
+Natural Law
+
+Legal Positivism
+
+Legal Realism and Scepticism
+
+Interpretationist theories
+
+When trying to develop a theory of law:
+
+* Obligation is important
+* Normativity, when deciding what to do, we ask "what counts", or what is "entitled" to count.
+* Law == criteria of right judgment in conduct, action
+* Acts as a standard for human conduct: enables judgments such as good; bad, right; wrong; desirable; undesirable; decent or unworth.
+
+:::
+
+---
+
+<style>
+.container{
+  display: flex;
+}
+.col {
+  flex: 1;
+}
+</style>
+
+::: {.container}
+
+:::: {.col}
+
+Truepenny, CJ
+
+Foster, J
+
+::::
+
+:::: {.col}
+
+Keen, J.
+
+Handy, J.
+
+Tatting, J.
+
+::::
+
+:::
+
+---
+
+::: {.notes}
+
+Concerning the normative account, when we speak of normativity, we will ask whether there are behaviors that are normative prior to our choices.
+
+:::
+
+## Truepenny, CJ
 
 Is in favor of the court's decision. Ruling of the court should be upheld, namely against murder, while clemency should be offered to the defendants recognizing the extreme circumstances and choices they were faced with.
 
@@ -77,7 +137,7 @@ One thing we are talking about then is obligation, or normativity. Does the law 
 
 ## Foster, J
 
-> For us to assert that the law we uphold and expound compels us to a conclusion we are ashamed of, and from  which we can only escape by appealing to a dispensation resting  within the personal whim of the Executive, seems to me to  amount to an admission that the law of this Commonwealth no longer pretends to incorporate justice. [@full49, 620]
+> For us to assert that the law we uphold and expound compels us to a conclusion we are ashamed of, and from  which we can only escape by appealing to a dispensation resting within the personal whim of the Executive, seems to me to  amount to an admission that the law of this Commonwealth no longer pretends to incorporate justice. [@full49, 620]
 
 ---
 
@@ -138,6 +198,10 @@ be controlled by the contents of our criminal code. [@full49, 625]
 7. Law would be ignored leading to impossibility of peaceful coexistence.
 8. Therefore current laws are not applicable.
 9. Defendants are innocent.
+
+## Keen, J.
+
+## Handy, J.
 
 ## Tatting, J.
 
