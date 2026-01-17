@@ -1,6 +1,6 @@
 ---
-subtitle: "PHIL343A -- Aesthetics"
-title: "<font style='font-size:1em;'>🗓️ Week 03<br/> On Mimesis</font>"
+subtitle: "Kretzmann, Lex Inuista Non Est Lex"
+title: "<font style='font-size:1em;'>🗓️ Week 03<br/> Phil Law</font>"
 author: Prof. [Reynolds](#)
 institute: '[Stetson University](#)'
 date: 02 September 2026
@@ -8,13 +8,14 @@ date-meta: 14 March 2023
 date-format: "DD MMM YYYY"
 toc: false
 toc-depth: 1
-toc-title: "Argument Forms, Formalization, Formation Rules:"
+toc-title: "Laws on trial"
 center-title-slide: false
 from: markdown+emoji
 format:
   revealjs:
     theme: moon
     fig-responsive: true
+    font-size: 11
     slide-number: true
     incremental: true
     mouse-wheel: false
@@ -25,116 +26,98 @@ format:
     footer: 'PHIL104Q -- Introduction to Logic'
 ---
 
-# Stories suitable for a Guardian?
+# Introduction
 
-* What is it that Plato wants to ban from the Kallopolis?
+## Three Questions
 
-::: {.notes}
+1. Can an individual citizen decide that the law is unjust?
+2. What grounds should that individual citizen decide that the law is unjust?
+3. If the judgment goes against the state, what is that citizen entitled or obliged to do about it?
 
-Which professions are useful in the Kallopolis?
+## The Dismissive Judgment Regarding Unjust Laws
 
-* Honor the gods, parents, and friendships (not take them lightly).
+* The dismissive judgment.
+* Examples of the judgments:
 
-* Mitigate the fear of death.
+> Such societies, we are now, of course contending, are no constitutional states, just as enactments, so far as they are not for the common interest of the whole community, are no true laws (*Laws*, IV 715B)
 
-* The more pleasent such stories are, the more convincing they will be.
+## Hippias Major D
 
-* Censure comedy as well [388e].
+1. Laws are beneficial to the citizens of a community
+2. Therefore law makers make laws to be to the greatest benefit of that community
+3. So if law makers fail to make a good law, then law makers have failed to make a law
 
-* The stories should be truthful.
+## Non Est Lex, the slogan and the issue
 
-:::
+***Inclusion Conditions***
 
-## Useful In Plato's Kallopolis:
+Here is an equivocation between evaluative judgments and ontological ones.
 
-Lyre:
+Claims about natural ontological inclusion conditions
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/baRvVPg6G1Y?si=y2A9pMmAhftxjYr5&amp;start=26" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-Cithara:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YzLv-8ne88k?si=1DIZIXTJ6BY__sVI&amp;start=65" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-Useless:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6zVgCvTWVBY?si=hS_pJODwD47Ob3Yu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-## Mixo-lydian
-
-. . . also useless:
-
-::: columns
-
-::: {.column style="display:inline-block;width:40%;height:60%;border-radius:1em;margin:1%;padding:1.5%;background-color:#f5f5f5"}
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Cok_vd48cA4?si=IX-t6gcSBkwkuMbq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-:::
-
-::: {.column style="width:50%;font-size:0.85em;margin-left:3%;"}
-
-<li class="fragment"><span class="tag" style="background-color:var(--quarto-hl-st-color)">Freaking Useless</span></li>
-
-
-:::
-
-:::
+> Many kinds of things have inclusion conditions that are entirely non-evaluative. For instance, it seems reasonable to suppose that no natural kinds have evaluative conditions among their inclusion among their standard inclusion conditions.
 
 ---
 
-Perhaps one of the best examples of the use of the Ionian mode:
+Claims about non-natural ontological inclusion conditions
 
-Tuesday's Gone by Lynard Skynard:
+* These are entirely non-evaluative, such as the iambic pentameter
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lSk9Ri1z1S8?si=CVeqDn4OBHyzzL-t&amp;start=19" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+The employee example is interesting. What makes an employee?:
 
-## Dorian Mode:
-
-> Just leave me the mode that would suitably imitate the tone and rhythm of a courageious person who is active in battle or doing other violent deeds, or who is failing and facing wounds, death, or some other misfortune, and who, in all these circumstances, is fighting off his fate steadily and with self-control.
+* That they work?
+* That they do just enough work?
+* That they do not do any work but are still paid by an employer?
 
 ---
 
-Leave me also another mode, that of someone engaged in a peaceful, unforced, voluntary action, persuading someone or asking a favor of a god in prayer or of a human being through teaching and exhortation, or, on the other hand, of someone submitting to the supplications of another who is teaching him and trying to get him to change his mind, and who, in all these circumstances, is acting in moderation and self-control, not with arrogance but with understanding, and is content with the outcome. [399b]
+Overt and Invariable evaluative kinds:
 
-## Like This:
+* literary master piece, child prodigy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tsb0oibEEqE?si=ATrdg7Kk-LnuW7Z7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Summary of the Traditional Slogan
 
-## As seen in Jazz and Funk:
+> those who formulated wicked unjust statutes for nations, thereby breaking their promises and agreements, put into effect *anything* but laws. It may thus be clear that in the very definition of the term 'law there inheres the idea and principle of choosing what is just and true'".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/khSrFHbP0DA?si=V9eCTXtJR3hIdkoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+I.e.,
 
-## A favorite artist of mine,
+Law == justice and truth
 
-Glad to see Plato would approve:
+## Cases with evaluative and non-evaluative inclusion conditions
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ylXk1LBvIqU?si=htU4ABYVF_sTHXX6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+* Plagiarized term papers
+* corrupt judges
+* counter fit dollar bills
 
-::: {.notes}
+---
 
-Example of Dorian mode.
+Difference between evaluative and ontological judgments.
 
-But I do not think he would since Davis plays around with some of the changes.
+* Is a corrupt judge still a judge?
+* Is a lazy employee still an employee?
 
-~3:50, apparently, he plays 16 bars of Db, then 8 bars of Eb, then 8 bars of Db again.
+These judgments are different in kind from judgments about counter fit dollar bills but they are made analogously.
 
-:::
+Lyon's rejects the slogan, Kretzmann finds truth in it that is not paradoxical.
 
-## And this:
+## Another disserter
 
-Scarborough Fair
+> Now to say that human laws which conflict with the divine law are not binding, that is to say, are not *laws*, is to talk stark non-sense. [Austin]
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RuqeA6nD0fI?si=TQFXFoe_GMfuZ6hn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Austin's point:
 
-::: {.notes}
+Unjust laws are not promulgated. But this is false just as plagiarized get turned.
 
-> If our youung people, Adeimantus, listen to these stories without ridiculing them as not worth hearing, it's hardly likely that they'll consider the things described in them to be unworthy or mere human beings like themselves or that they'll rebuke themselves for doing or saying similar things when misfortune strikes. Instead, they'll feel neither shame nor restraint but groan and lament at even insignificant misfortunes. [388d]
-:::
+# The Four Types of Law and the Relations
 
-## Appropriate Meter (Rhythm?)
+# Aquinas' Conception of Natural Law
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oYd7OSajpjA?si=iLVM0taCSvuT9q1m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+# Definition and Evaluation in Aquinas' Treatise on Law
+
+# Inclusion Conditions for Law
+
+# Non-Evaluative and Evaluative Conditions
+
+# Aquinas' Assessments of Law
+
+# Laws on Trial in the Court of Conscience
