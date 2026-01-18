@@ -15,7 +15,7 @@ format:
   revealjs:
     theme: moon
     fig-responsive: true
-    font-size: 11
+    font-size: 10
     slide-number: true
     incremental: true
     mouse-wheel: false
@@ -100,15 +100,72 @@ These judgments are different in kind from judgments about counter fit dollar bi
 
 Lyon's rejects the slogan, Kretzmann finds truth in it that is not paradoxical.
 
-## Another dissenter
+---
+
+1. Laws can intelligently be judged good or bad
+2. Wise or foolish
+3. Just or unjust.
+
+## Conditional of Moral Legal Standards
+
+> If there *are* moral standards by which laws may properly be judged, then it would seem that laws can *be* good or bad, just or unjust.
+
+## Aquinas Moral Standards
+
+Some Complications:
+
+1. Misleading: laws framed by humans are either just or unjust.
+2. How can a law be unjust if an unjust law is not a law?
+
+## The Positivist Version of the Problem
+
+> The existence of law is one thing; its merit or demerit is another. Whether it be or be not is one enquiry; whether it be or be not conformable to an assumed standard, is a different enquiry.
+
+---
+
+1. Existence
+2. Evaluation
+
+## Another Dissent
 
 > Now to say that human laws which conflict with the divine law are not binding, that is to say, are not *laws*, is to talk stark non-sense. [Austin]
 
 Austin's point:
 
-Unjust laws are not promulgated. But this is false just as plagiarized papers often get turned in.
+* Unjust laws are not promulgated. But this is false just as plagiarized papers often get turned in.
+* Unjust laws are not enforced, but this is also not right.
+
+1. Promulgation
+2. Enforcement
+
+> Austin reads the *non-est-lex* slogan as if it entailed the absurd claim that unjust laws are never promulgated or enforced, and then takes himself to have refuted the slogan by pointed out in patronizing detail that they sometimes are.
 
 # The Four Types of Law and the Relations
+
+1. Eternal Law
+2. Natural Law
+3. Laws of Physics
+4. Rational Law
+
+## Eternal Law
+
+* The foundation of the other kinds of law.
+* Is God's plan
+* providence
+* intellect
+* i.e., God himself as the ruler of the universe
+
+## Natural Law
+
+* Only in human beings
+  * innate principles of rational action
+  * human laws derive from it
+
+---
+
+Human laws as derived from moral rules. However:
+
+> It is on the basis of the precepts of natural law, as from general and indemonstrable principles of a certain sort, that human reason must proceed to certain matters that must be dealt with in more detail. And those detailed dispositions, arrived at in accordance with human reason, are called human laws, *provided that the other conditions that pertain to the essence of law have been met.*
 
 # Aquinas' Conception of Natural Law
 
