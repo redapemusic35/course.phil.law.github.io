@@ -78,7 +78,7 @@ Some of the questions we'll think about together:
 * Is it okay to exploit game mechanics to your advantage?
 * Is sharing secrets outside the game world cheating?
 * Is it wrong to gang up on defenseless players?
-* What exactly makes someone an A$$Hole in a PVP environment?
+* What exactly makes someone an A-Hole in a PVP environment?
 * Bonus debate: Is philosophy D&D better than regular D&D?
  * Get ready for some weird unconventional DND adventures . . .
 
@@ -96,7 +96,6 @@ Hope to see many of you there—whether for quiet reading, heated game debates, 
 
 ::: {.panel-tabset}
 
->>>>>>> 1a222be9a865e7d0eff0a4d950bfaeb4115164df
 ## Course Convenor
 
 ![](/figures/people/professor_octopus.png){fig-align="left" fig-alt="Photo of Dr. Reynolds" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;"}
