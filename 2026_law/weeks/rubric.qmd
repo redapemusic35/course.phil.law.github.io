@@ -1,5 +1,5 @@
 ---
-title: "Spring 2026 Introduction to Philosophy Grading Rubric"
+title: "Spring 2026 Philosophy of Law Grading Rubric"
 format:
   html:
     toc: false
