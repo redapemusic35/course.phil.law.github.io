@@ -8,15 +8,87 @@ We will examine theories which attempt to provide answers to such questions as: 
 
 [Download the Course Syllabus Here](./syllabus.qmd)
 
+## 📢 Important Updates Winter/Spring Semester
+
+::: {layout="[ 0.5, -0.05, 0.45 ]"}
+
+:::: {###MLK}
+
 ::: {.callout-important collapse=false}
 
-## 📢 Important
+### MLK Day Holiday
 
-(01/16/2026)
+(01/19/2026)
 
-* For each week, click the link on the left corresponding to the author and reading for that week
-* There you will find links to the reading and slides
-* Click the link below titled "course schedule" for a summary of the course readings
+Monday (Martin Luther King Jr. Day) → No classes!
+
+:::
+
+::::
+
+:::: {###Office-hours}
+
+::: {.callout-important collapse=false}
+
+### Updated Office House
+
+I've added more flexibility this semester!
+
+* Tuesday: 1:00–3:00 PM
+* Thursday: 1:00–3:00 PM
+
+Come by anytime during these windows for help, discussion, or just to chat.
+
+:::
+
+::::
+
+:::
+
+## 📢 Weekly Philosophy Hangouts-Join us!
+
+::: {layout="[ 0.5, -0.05, 0.45 ]"}
+
+:::: {###lo-phi}
+
+::: {.callout-important collapse=false}
+
+### Lo-Phi in the Philosophy Lounge
+
+* Time: 2:00–4:00 PM (overlaps with office hours)
+* Location: Elizabeth Hall 104
+* What to expect: A relaxed space to hang out, read philosophy, talk ideas, and do some casual philosophizing with others. Bring your book, your thoughts, or just yourself!
+
+:::
+
+::::
+
+:::: {###TEXM}
+
+::: {.callout-important collapse=false}
+
+### Thursdays: The Experience Machine
+
+* Time: After office hours (1:00–3:00 PM)
+
+What it is: Come play video games with a philosophical twist! We'll explore deep questions raised by gaming.
+
+Some of the questions we'll think about together:
+
+* Is it okay to exploit game mechanics to your advantage?
+* Is sharing secrets outside the game world cheating?
+* Is it wrong to gang up on defenseless players?
+* What exactly makes someone an A$$Hole in a PVP environment?
+* Bonus debate: Is philosophy D&D better than regular D&D?
+ * Get ready for some weird unconventional DND adventures . . .
+
+Gaming with friends is always more fun (and thought-provoking) in a group:
+
+:::
+
+::::
+
+Hope to see many of you there—whether for quiet reading, heated game debates, or just good company! Questions? Drop by office hours. 😊
 
 :::
 
@@ -24,6 +96,7 @@ We will examine theories which attempt to provide answers to such questions as: 
 
 ::: {.panel-tabset}
 
+>>>>>>> 1a222be9a865e7d0eff0a4d950bfaeb4115164df
 ## Course Convenor
 
 ![](/figures/people/professor_octopus.png){fig-align="left" fig-alt="Photo of Dr. Reynolds" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;"}
@@ -34,7 +107,9 @@ We will examine theories which attempt to provide answers to such questions as: 
 
 Office Hours:
 
-- When: TTH 1:00-5:00pm or by appointment
+- When:
+  * Tuesday: 1:00–3:00 PM
+  * Thursday: 1:00–3:00 PM
 - Where: Elizabeth Hall 104
 - How to book: Drop in, email, or book via [Microsoft Bookings](https://outlook.office.com/bookwithme/user/59570715559b43fdabc651a89a3ed839@stetson.edu?anonymous&ismsaljsauthenabled&ep=plink)
 
@@ -42,9 +117,10 @@ Office Hours:
 
 ### Required Texts:
 
-Required: Handouts
+[Feinberg, Joel, and Jules L. Coleman. 2008. Philosophy of Law / Edited by Joel Feinberg, Jules Coleman. 8th ed. Thomson/Wadsworth.
+](https://www.amazon.com/Philosophy-text-Eighth-Feinberg-Coleman/dp/B004IS2MP6/ref=monarch_sidesheet_title)
 
-Recommended: Feinberg, Joel, Jules L. Coleman, and Christopher Kutz, eds. Philosophy of Law. Eight edition, Student edition. Cengage, 2014.
+Required: Handouts
 
 ### Expectations:
 
@@ -168,7 +244,8 @@ Please Note: Oral appeals for grade changes are NOT accepted. If you feel that y
 
 A.Honor Code: University rules concerning scholastic dishonesty will be strictly followed. Any attempt at academic cheating will be referred to the Honor Council. I expect you to abide by the Honor Code that we have adopted here at Stetson. Please sign all work “Pledged, your name.” University rules concerning scholastic dishonesty will be strictly followed. As a community of intellectual inquirers, we are all committed to academic integrity and honesty.  The Stetson University Student Government Association, on its own initiative, recently drafted a proposal for an honor code, a powerful statement of the student body’s commitment to this community of honor and integrity. For this reason, all work that you turn in must be your own. Any contribution from others must be clearly acknowledged. Unauthorized assistance on exams (take-home as well as in-class), research papers, or projects can be neither given nor received. The University has fully endorsed its honor system and abides by its precepts. If you have questions regarding the method/procedure for citing the work of others, please feel free to consult us.
 
-The Department of Philosophy expects academic honesty of all students; we expect all students to abide by Stetson’s honor code and to adhere to the honor system. Academic dishonesty includes, but is not limited to, altering or misusing documents, plagiarizing, misrepresentation, knowingly providing false information, colluding, and other forms of cheating. Students should read and follow Stetson’s definitions and policies on ‘Academic Honesty,’ the honor code, and the honor system in Connections: The Campus Life Handbook and Calendar. It is the student’s responsibility to be familiar with these definitions and policies; ignorance of them is not an acceptable excuse for violating them. Cases of suspected academic dishonesty, including plagiarism, will be referred to the Academic Honor Council, as per departmental policy. 
+The Department of Philosophy expects academic honesty of all students; we expect all students to abide by Stetson’s honor code and to adhere to the honor system. Academic dishonesty includes, but is not limited to, altering or misusing documents, plagiarizing, misrepresentation, knowingly providing false information, colluding, and other forms of cheating. Students should read and follow Stetson’s definitions and policies on ‘Academic Honesty,’ the honor code, and the honor system in Connections: The Campus Life Handbook and Calendar. It is the student’s responsibility to be familiar with these definitions and policies; ignorance of them is not an acceptable excuse for violating them. Cases of suspected academic dishonesty, including plagiarism, will be referred to the Academic Honor Council, as per departmental policy.
+
 The honor code can be found online at the following address:http://www.stetson.edu/honorsystem/  http://www.stetson.edu/honorsystem/
 
 B.Assignment standards: Late Work: All assignments must be handed in on time: late work will be docked a half-letter grade per day unless you get my approval for an extension before the due date. (Student athletes and others on school business: please, be advised to turn your assignments in BEFORE you leave, not after you return). No make-up exams or quizzes will be given without documented University accepted excuse (and they will differ from the ones given in class). This includes group quizzes.
@@ -222,3 +299,4 @@ See Class Times Below
 - ⌚ 11:30am - 12:45am
 
 :::
+
