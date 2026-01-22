@@ -169,11 +169,90 @@ Human laws as derived from moral rules. However:
 
 # Aquinas' Conception of Natural Law
 
+## What is Natural?
+
+1. Inclination to the self-preservation of life
+   1. Why 'self'-preservation and not merely preservation?
+   2. 'a human being's' life, not necessarily 'human' life more broadly
+2. Inclination towards specific goods
+   1. raising offspring etc
+3. Inclination to what is good
+   1. truth about God
+   2. live in society consider 'a human' vs 'human' distinction
+
+## Conscience and Natural Law
+
+> conscience is called the law of our intellect insofar as it is a dispositional state containing the precepts of naural law, which are the first principles of human actions. [11]
+
+1. Precepts of natural law are fundamental moral rules
+2. Is unjust law a perversion or counterfeit?
+
+> It is on the basis of the precepts of natural law, as from general and indemonstrable principles of a certain sort, that human reason must proceed to certain matters that must be dealt with in more detail. And those detailed dispositions arrived at in accordance with human reason, are called human laWs, provided thats the other conditions that pertain to the essence of law have been met. [12]
+
+1. What are these 'matters'?
+2. How must we deal with them?
+3. What are the important dipositions 'arrived at in accordance with human reason'?
+   1. human laws
+   2. Only if other conditions are met
+   3. What are these other conditions?
+
 # Definition and Evaluation in Aquinas' Treatise on Law
+
+1. A directive of reason
+2. Aimed at the common good
+3. Promulgated by the government
+4. Pertaining to a complete community
+5. Leading people to or retraiing them from certain actions
+6. Having coercive power
 
 # Inclusion Conditions for Law
 
+## 5, Leading people to or restraining them from certain actions
+
+1. An ordinance
+2. Dictate
+3. Directive
+
+That possibly derives from a directive of reason. But where does 6 (coercive power), come from?
+
+## 6, Coercive Power
+
+Who has coercive power?
+
+1. Soverign
+2. Government
+3. (Importantly), one *responsible* for the community
+
+## Final Condition
+
+* Intended to be obeyed
+  * Related to the laws coercive power
+
 # Non-Evaluative and Evaluative Conditions
+
+Conditions 1 and 2 are very different from conditions 3-6.
+
+## 1 and 2
+
+1. A directive of reason
+2. Aimed at the common good
+
+* Evaluative
+
+## 3-6
+
+3. Promulgated by the government
+4. Pertaining to a complete community
+5. Leading people to or retraiing them from certain actions
+6. Having coercive power
+
+* Non-Evaluative
+
+## Examples
+
+Why do household rules fail to satisfy all the conditions?
+
+They satisfy 1 and 2, but not 3-6.
 
 # Aquinas' Assessments of Law
 
