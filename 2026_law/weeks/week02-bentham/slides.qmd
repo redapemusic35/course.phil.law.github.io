@@ -1,6 +1,6 @@
 ---
-subtitle: "Lex Inuista Non Est Lex: Laws on Trial"
-title: "<font style='font-size:1em;'>🗓️ Week 03<br/> Kretzmann</font>"
+subtitle: "Legal Positivism"
+title: "<font style='font-size:1em;'>🗓️ Week 03<br/> Bentham</font>"
 author: Prof. [Reynolds](#)
 institute: '[Stetson University](#)'
 date: 02 September 2026
@@ -21,28 +21,175 @@ format:
     preview-links: auto
     logo: /figures/icons/course_favicon.png
     css: /css/styles_slides.css
-    footer: 'PHIL104Q -- Introduction to Logic'
+    footer: 'PHIL264 -- Philosophy of Law'
 ---
 
-# The Nature of Law
+# Legal Positivism
 
-## Initial Interpretation
+John Austin:
 
-1. Laws == State's System of Justice.
-2. Sometimes private citizens decide a particular state law is unjust.
-3. Natural law: there is some rule of measurement external to the state's system of justice.
+> A law, in the most general and comprehensive acceptation in which the term, in its literal meaning, is employed, may be said to be a rule laid down for the guidance of an intelligent being by an intelligent being having power over him. [The Province of Jurisprudence Determined, selections from Lectures I and VI, 1832]
 
-## The Question
+But notice Bentham's formulation:
 
-> Is an individual citizen entitled or obliged to decide whether a law of the state is unjust? If so, on what grounds is he or she supposed to make the decision?
+## The Principle of Utility
 
----
+> Nature has placed mankind under the governance of two sovereign masters, *pain*, and *pleasure*.
 
-* What is the rule of measurement the individual citizen uses?
-* Does the individual citizen get to decide?
-* Is the individual citizen obliged to decide?
-* What can she do if a given law is unjust?
+* Every action either promotes pleasure, or mitigates pain.
+* Therefore, we evaluate all action by its ability to promote pleasure or mitigate pain.
 
 ---
 
-> And if an individual citizen has decided on appropriate grounds that a law of the state is unjust, what is she or he entitled or obliged to do about it? [@kret88, 7]
+> An action then may be said to be conformable to the principle of utility, or, for shortness sake, to utility, (meaning with respect to the community at large) when the tendency it has to augment the happiness of the community is greater than any it has to diminish it.
+
+## Of Principles Adverse to that of Utility
+
+Other possible determinates of actions:
+
+* Asceticism
+* Principle of Sympathy and Antipathy
+
+---
+
+### Asceticism
+
+Come in Two Kinds
+
+* Moralists
+* Religionists
+
+---
+
+* like utility, guise through which we might approve or disapprove actions
+* actions that diminish happiness are good, actions that promote pain good
+* actions promote happiness are bad, actions that diminish pain are good
+
+---
+
+> By the principle of asceticism I mean that principle, which, like the principle of utility, approves or disapproves of any action, according to the tendency which it appears to have to augment or diminish the happiness of the party whose interest is in question; but in an inverse manner: approving of actions in as far as they tend to diminish his happiness; disapproving of them in as far as they tend to augment it. (Principles of Morals and Legislation)
+
+---
+
+#### Four Sources of Pleasure, Pain, and Sanction
+
+Sources of Pleasures and Pains
+
+1. Physical
+2. Political
+3. Moral
+4. And Religious
+
+---
+
+* Physical pains are often natural, i.e., car accidents.
+* But, pains from a judge, sovereign, supreme ruling power are synonymous with political sanction
+
+---
+
+But . . .
+
+> If at the hands of such chance persons in the community, as the party in question may happen in the course of his life to have concerns with, according to each man's spontaneous disposition, and not according to any settled or concerted rule, it may be said to issue from the *moral* or *popular sanction*. [Of Morals, 28]
+
+---
+
+Superior or invisible being, = religious sanction
+
+---
+
+
+* Of the Four Sanctions or Sources of Pain and Pleasure
+
+* Value of a Lot of Pleasure or Pain, How to be Measured
+
+* Pleasures and Pains, Their Kinds
+
+* Of Circumstances Influencing Sensibility
+
+## Of Human Actions in General
+
+What is the purpose of Government?
+
+> The business of government is to promote the happiness of the society, by punishing and rewarding. [61]
+
+Contrast with Aquinas:
+
+* Law = rule and measure of acts whereby man is induced to act or restrained from acting
+
+But for what?
+
+> Now the first principle in practical matters, which are the object of the practical reason, is the last end, and the last end of human life is bliss or happiness, as stated above. Consdquently, the law must needs regard principally the relationship to happiness. [Aquinas, ST I-II, Q. 90, 2nd]
+
+## Of Intentionality
+
+## Of Consciousness
+
+## Of Motives
+
+## Human Dispositions in General
+
+## Of the Consequences of a Mischievous Act
+
+## Cases Unmeet for Punishment
+
+## Of the Proportion between Punishments and Offences
+
+## Of the Properties to be Given to a Lot of Punishment
+
+## Division of Offenses
+
+## Of the Limits of the Penal Branch of Jurisprudence
+
+What can the law forbid?
+
+Consider:
+
+* Seat belt laws
+* Laws against suicide
+* Laws against incest
+
+---
+
+Kinds of Legal Matter
+
+* Criminal
+* Civil
+
+---
+
+Two kinds of Legislation
+
+* Moral (Private Ethics)
+* Civil (Community), Penal (Penalties)
+
+---
+
+How do we distinguish between the limits of law, matters of public and private.
+
+Ethics == the art of directing men's actions to the production of the greatest possible quantify of happiness, on the part of those whose interest is in view.
+
+---
+
+Directing to action = Coercion
+
+> What then are the actions which it can be in a man's power to direct? They must be either his own actions, or those of other agents. Ethics, in as far as it is the art of directing a man's own actions, may be styled the *art of self-government*, or *private ethics*.
+
+* What is coercion?
+* Who can be coerced?
+* How can they be coerced?
+
+# Exclusive Positivism and Inclusive Positivism
+
+* Rules of recognition
+  * determine certain facts or events
+  * taken to yield established ways for creating, modifying, and annuling legal standards
+
+## Exclusive Source of Law
+
+> The kiind of exclusive positivism I have in mind would baasically hold that legal validity is exhausted by reference to the conventional sources of law: all law is source based, and anything which is not souce based is not laww.
+
+## Inclusive Source of Law
+
+* Law can include considerations of morality
+
+* i.e., Ronald Dworkin "maintains that the dependence of legal validity on moral jconsiderations is an essential feature of law which basically derives from law's profound interpretative nature
