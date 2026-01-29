@@ -1,6 +1,6 @@
 ---
-subtitle: "Lex Inuista Non Est Lex: Laws on Trial"
-title: "<font style='font-size:1em;'>🗓️ Week 03<br/> Kretzmann</font>"
+subtitle: "Of Laws in General"
+title: "<font style='font-size:1em;'>🗓️ Week 03<br/> Bentham</font>"
 author: Prof. [Reynolds](#)
 institute: '[Stetson University](#)'
 date: 02 September 2026
@@ -21,28 +21,7 @@ format:
     preview-links: auto
     logo: /figures/icons/course_favicon.png
     css: /css/styles_slides.css
-    footer: 'PHIL104Q -- Introduction to Logic'
+    footer: 'PHIL284A -- Bentham'
 ---
 
-# The Nature of Law
-
-## Initial Interpretation
-
-1. Laws == State's System of Justice.
-2. Sometimes private citizens decide a particular state law is unjust.
-3. Natural law: there is some rule of measurement external to the state's system of justice.
-
-## The Question
-
-> Is an individual citizen entitled or obliged to decide whether a law of the state is unjust? If so, on what grounds is he or she supposed to make the decision?
-
----
-
-* What is the rule of measurement the individual citizen uses?
-* Does the individual citizen get to decide?
-* Is the individual citizen obliged to decide?
-* What can she do if a given law is unjust?
-
----
-
-> And if an individual citizen has decided on appropriate grounds that a law of the state is unjust, what is she or he entitled or obliged to do about it? [@kret88, 7]
+# On Laws
