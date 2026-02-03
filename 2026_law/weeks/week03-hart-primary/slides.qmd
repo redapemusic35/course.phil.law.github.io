@@ -48,6 +48,17 @@ Hart advances positivism by introducing a more sophisticated structure of legal 
 
 ## Hart's Primary Rules
 
+---
+
+Some prerequisites:
+
+1. Penal law = Just distribution of proposed threats backed by sanctions
+2. Legislative and Administrative rules for creating legal entities.
+3. Rules vs. Orders distinction
+4. Sovereign vs. Legislative authority
+
+---
+
 - **Definition**: Rules that impose duties or obligations directly on individuals (e.g., "Do not steal").
 - **Characteristics**:
   - Oblige behavior.
@@ -81,6 +92,17 @@ Secondary rules provide the framework for a mature legal system, distinguishing 
 ::: {.notes}
 This model separates "is" (positive law) from "ought" (morality), echoing Bentham.
 :::
+
+## Legal Obligation
+
+![](./../../../readings/gunman.png)
+
+---
+
+* Legal Obligation: beliefs and motivations regarding punishment are not sufficient
+* Being Obliged: beliefs and motivations are sufficient
+
+For instance, military service.
 
 ## Introduction to Ronald Dworkin
 
