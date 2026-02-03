@@ -3347,7 +3347,7 @@
     "href": "2026_law/weeks/week03-hart-primary/slides.html#harts-primary-rules",
     "title": "🗓️ Week 05 HLA Hart, Law as the Union of Primary and Secondary Rules",
     "section": "Hart’s Primary Rules",
-    "text": "Hart’s Primary Rules\n\nDefinition: Rules that impose duties or obligations directly on individuals (e.g., “Do not steal”).\nCharacteristics:\n\nOblige behavior.\nOften backed by sanctions.\n\nLimitations: In primitive societies, primary rules alone lead to issues like uncertainty, static nature, and inefficiency in disputes.\n\n\nPrimary rules are the basic content of law, similar to Bentham’s utility-driven commands."
+    "text": "Hart’s Primary Rules"
   },
   {
     "objectID": "2026_law/weeks/week03-hart-primary/slides.html#harts-secondary-rules",
@@ -3362,6 +3362,13 @@
     "title": "🗓️ Week 05 HLA Hart, Law as the Union of Primary and Secondary Rules",
     "section": "Union of Primary and Secondary Rules",
     "text": "Union of Primary and Secondary Rules\n\nCore Idea: Law is the union of primary (content) and secondary (structure) rules.\nAdvantages:\n\nSolves problems in primitive rule systems.\nExplains legal validity without relying on morality (contra natural law like Kretzmann).\n\nConnection to Speluncean Explorers: Judges apply secondary rules to interpret primary ones.\n\n\nThis model separates “is” (positive law) from “ought” (morality), echoing Bentham."
+  },
+  {
+    "objectID": "2026_law/weeks/week03-hart-primary/slides.html#legal-obligation",
+    "href": "2026_law/weeks/week03-hart-primary/slides.html#legal-obligation",
+    "title": "🗓️ Week 05 HLA Hart, Law as the Union of Primary and Secondary Rules",
+    "section": "Legal Obligation",
+    "text": "Legal Obligation"
   },
   {
     "objectID": "2026_law/weeks/week03-hart-primary/slides.html#introduction-to-ronald-dworkin",
@@ -4724,6 +4731,139 @@
       "The Halls of Justice – Philosophy of Law",
       "Week 9, Devlin"
     ]
+  },
+  {
+    "objectID": "2026_law/weeks/week03-dworkin-rules/slides.html#recap-of-previous-topics",
+    "href": "2026_law/weeks/week03-dworkin-rules/slides.html#recap-of-previous-topics",
+    "title": "🗓️ Week 05 Jurisprudence: Positivism Debates",
+    "section": "Recap of Previous Topics",
+    "text": "Recap of Previous Topics\n\nKretzmann’s Lex Iniusta Non Est Lex: Unjust laws not true laws.\nFuller’s Speluncean Explorers: Judicial philosophies in action.\nBentham’s Principles of Morals: Utilitarian positivism; law from utility, separate from morality.\n\n\nHigh-level continuity: Ties to positivism’s evolution and critiques."
+  },
+  {
+    "objectID": "2026_law/weeks/week03-dworkin-rules/slides.html#introduction-to-hla-hart",
+    "href": "2026_law/weeks/week03-dworkin-rules/slides.html#introduction-to-hla-hart",
+    "title": "🗓️ Week 05 Jurisprudence: Positivism Debates",
+    "section": "Introduction to HLA Hart",
+    "text": "Introduction to HLA Hart\n\nKey Work: The Concept of Law (1961).\nRefines Bentham/Austin: Beyond sovereign commands.\nLaw as social artifact; rule of recognition central.\n\n\nFoundation for positivist debates."
+  },
+  {
+    "objectID": "2026_law/weeks/week03-dworkin-rules/slides.html#harts-primary-rules",
+    "href": "2026_law/weeks/week03-dworkin-rules/slides.html#harts-primary-rules",
+    "title": "🗓️ Week 05 Jurisprudence: Positivism Debates",
+    "section": "Hart’s Primary Rules",
+    "text": "Hart’s Primary Rules\n\nImpose duties (e.g., “Do not steal”).\nBacked by sanctions; oblige behavior.\nLimitations: Uncertainty, static, inefficient in primitives.\n\n\nBasic content; links to Bentham’s utility."
+  },
+  {
+    "objectID": "2026_law/weeks/week03-dworkin-rules/slides.html#harts-secondary-rules",
+    "href": "2026_law/weeks/week03-dworkin-rules/slides.html#harts-secondary-rules",
+    "title": "🗓️ Week 05 Jurisprudence: Positivism Debates",
+    "section": "Hart’s Secondary Rules",
+    "text": "Hart’s Secondary Rules\n\nMeta-rules: Address primary deficiencies.\nRecognition: Validates law (e.g., constitution).\nChange: Modify/repeal (e.g., legislation).\nAdjudication: Resolve disputes (e.g., courts).\n\n\nFramework for mature systems."
+  },
+  {
+    "objectID": "2026_law/weeks/week03-dworkin-rules/slides.html#union-of-primary-and-secondary-rules",
+    "href": "2026_law/weeks/week03-dworkin-rules/slides.html#union-of-primary-and-secondary-rules",
+    "title": "🗓️ Week 05 Jurisprudence: Positivism Debates",
+    "section": "Union of Primary and Secondary Rules",
+    "text": "Union of Primary and Secondary Rules\n\nLaw = Content (primary) + Structure (secondary).\nSeparates validity from morality (contra Kretzmann).\nAddresses Speluncean: Judges apply rules interpretively.\n\n\nEchoes Bentham’s separation thesis."
+  },
+  {
+    "objectID": "2026_law/weeks/week03-dworkin-rules/slides.html#introduction-to-ronald-dworkin",
+    "href": "2026_law/weeks/week03-dworkin-rules/slides.html#introduction-to-ronald-dworkin",
+    "title": "🗓️ Week 05 Jurisprudence: Positivism Debates",
+    "section": "Introduction to Ronald Dworkin",
+    "text": "Introduction to Ronald Dworkin\n\nKey Work: The Model of Rules (1967).\nCritiques positivism: Incomplete for hard cases.\nLaw beyond rules; integrates principles.\n\n\nChallenges Hart; closer to natural law elements."
+  },
+  {
+    "objectID": "2026_law/weeks/week03-dworkin-rules/slides.html#dworkins-rules-vs.-principles",
+    "href": "2026_law/weeks/week03-dworkin-rules/slides.html#dworkins-rules-vs.-principles",
+    "title": "🗓️ Week 05 Jurisprudence: Positivism Debates",
+    "section": "Dworkin’s Rules vs. Principles",
+    "text": "Dworkin’s Rules vs. Principles\n\nRules: All-or-nothing; strict application.\nPrinciples: Weighted; balance in adjudication (e.g., fairness).\nCritique: Positivism ignores principles’ role.\n\n\nLinks to Speluncean: Judges weigh principles."
+  },
+  {
+    "objectID": "2026_law/weeks/week03-dworkin-rules/slides.html#dworkins-model-of-rules",
+    "href": "2026_law/weeks/week03-dworkin-rules/slides.html#dworkins-model-of-rules",
+    "title": "🗓️ Week 05 Jurisprudence: Positivism Debates",
+    "section": "Dworkin’s Model of Rules",
+    "text": "Dworkin’s Model of Rules\n\nFlaw: Law not just explicit rules; includes principles/policies.\nHercules Judge: Interprets coherently, fitting principles.\nBlurs law/morality (contra Bentham/Hart).\n\n\nInterpretive; morality informs validity in hard cases."
+  },
+  {
+    "objectID": "2026_law/weeks/week03-dworkin-rules/slides.html#comparison-hart-vs.-dworkin",
+    "href": "2026_law/weeks/week03-dworkin-rules/slides.html#comparison-hart-vs.-dworkin",
+    "title": "🗓️ Week 05 Jurisprudence: Positivism Debates",
+    "section": "Comparison: Hart vs. Dworkin",
+    "text": "Comparison: Hart vs. Dworkin\n\n\n\n\n\n\n\n\nAspect\nHart (Positivism)\nDworkin (Interpretivism)\n\n\n\n\nLaw’s Nature\nRules (primary + secondary)\nRules + principles\n\n\nValidity\nRule of recognition (pedigree)\nBest moral fit\n\n\nHard Cases\nDiscretion (open texture)\nPrincipled interpretation\n\n\nMorality\nSeparated\nIntegrated\n\n\n\n\nBuilds on Bentham/Fuller."
+  },
+  {
+    "objectID": "2026_law/weeks/week03-dworkin-rules/slides.html#exclusive-legal-positivism-marmor",
+    "href": "2026_law/weeks/week03-dworkin-rules/slides.html#exclusive-legal-positivism-marmor",
+    "title": "🗓️ Week 05 Jurisprudence: Positivism Debates",
+    "section": "Exclusive Legal Positivism (Marmor)",
+    "text": "Exclusive Legal Positivism (Marmor)\n\nCore: Validity exhausted by sources; no moral content.\nArguments:\n\nConventional foundation: Constitutive, not epistemic.\nAuthority (Raz): Directives identifiable without dependent reasons.\n\nDenies inclusive: No middle ground with Dworkin.\n\n\nDefends strong sources thesis."
+  },
+  {
+    "objectID": "2026_law/weeks/week03-dworkin-rules/slides.html#inclusive-legal-positivism-himma",
+    "href": "2026_law/weeks/week03-dworkin-rules/slides.html#inclusive-legal-positivism-himma",
+    "title": "🗓️ Week 05 Jurisprudence: Positivism Debates",
+    "section": "Inclusive Legal Positivism (Himma)",
+    "text": "Inclusive Legal Positivism (Himma)\n\nCore: Possible moral criteria of validity (incorporation).\nTheses:\n\nSocial Fact: Law from social artifacts.\nConventionality: Weak (convergence); Strong (duty-imposing).\nSeparability: No necessary moral overlap.\n\nAllows necessity/sufficiency components.\n\n\nSoft positivism; accommodates moral constraints."
+  },
+  {
+    "objectID": "2026_law/weeks/week03-dworkin-rules/slides.html#conceptual-foundations-social-fact-thesis",
+    "href": "2026_law/weeks/week03-dworkin-rules/slides.html#conceptual-foundations-social-fact-thesis",
+    "title": "🗓️ Week 05 Jurisprudence: Positivism Debates",
+    "section": "Conceptual Foundations: Social Fact Thesis",
+    "text": "Conceptual Foundations: Social Fact Thesis\n\nLaw as social creation/artifact.\nAustin: Sovereign commands + sanctions.\nHart: Rule of recognition + acceptance/obedience.\nExplains validity/authority via social facts.\n\n\nShared positivist base."
+  },
+  {
+    "objectID": "2026_law/weeks/week03-dworkin-rules/slides.html#conventionality-theses",
+    "href": "2026_law/weeks/week03-dworkin-rules/slides.html#conventionality-theses",
+    "title": "🗓️ Week 05 Jurisprudence: Positivism Debates",
+    "section": "Conventionality Theses",
+    "text": "Conventionality Theses\n\nWeak: Validity criteria from official convention (SCA/coordination/constitutive).\nStrong: Rule of recognition imposes duties.\nDebates: Raz/Marmor reject strong; Coleman/Hart affirm.\n\n\nExplains normativity."
+  },
+  {
+    "objectID": "2026_law/weeks/week03-dworkin-rules/slides.html#separability-thesis",
+    "href": "2026_law/weeks/week03-dworkin-rules/slides.html#separability-thesis",
+    "title": "🗓️ Week 05 Jurisprudence: Positivism Debates",
+    "section": "Separability Thesis",
+    "text": "Separability Thesis\n\nLaw/morality conceptually distinct.\nNo necessary moral validity criteria.\nAllows contingent overlap (inclusive view).\n\n\nFoundation; denies natural law necessity."
+  },
+  {
+    "objectID": "2026_law/weeks/week03-dworkin-rules/slides.html#incorporation-thesis-overview",
+    "href": "2026_law/weeks/week03-dworkin-rules/slides.html#incorporation-thesis-overview",
+    "title": "🗓️ Week 05 Jurisprudence: Positivism Debates",
+    "section": "Incorporation Thesis Overview",
+    "text": "Incorporation Thesis Overview\n\nMoral principles can be validity criteria.\nNecessity: Consistency with morals required.\nSufficiency: Moral content validates.\nHistorical: Hart vs. Fuller/Dworkin.\n\n\nInclusive’s key claim."
+  },
+  {
+    "objectID": "2026_law/weeks/week03-dworkin-rules/slides.html#exclusive-vs.-inclusive-key-debates",
+    "href": "2026_law/weeks/week03-dworkin-rules/slides.html#exclusive-vs.-inclusive-key-debates",
+    "title": "🗓️ Week 05 Jurisprudence: Positivism Debates",
+    "section": "Exclusive vs. Inclusive: Key Debates",
+    "text": "Exclusive vs. Inclusive: Key Debates\n\n\n\n\n\n\n\n\nAspect\nExclusive (Raz/Marmor/Shapiro)\nInclusive (Hart/Coleman/Waluchow)\n\n\n\n\nValidity\nSources only\nSources + morality possible\n\n\nMorality\nExternal; no incorporation\nCan constrain/validate\n\n\nAuthority\nPre-emptive; identifiable\nCompatible; non-pre-emptive OK\n\n\nFunction\nGuides via sources\nGuides; allows moral guidance\n\n\n\n\nCore divide in positivism."
+  },
+  {
+    "objectID": "2026_law/weeks/week03-dworkin-rules/slides.html#connections-across-topics",
+    "href": "2026_law/weeks/week03-dworkin-rules/slides.html#connections-across-topics",
+    "title": "🗓️ Week 05 Jurisprudence: Positivism Debates",
+    "section": "Connections Across Topics",
+    "text": "Connections Across Topics\n\nBentham: Positivism’s utilitarian roots; separation.\nHart: Refines; union of rules; allows incorporation.\nDworkin: Critiques rules-only; principles integrate morality.\nExclusive/Inclusive: Debate incorporation’s coherence.\n\n\nEvolution from positivism to critiques."
+  },
+  {
+    "objectID": "2026_law/weeks/week03-dworkin-rules/slides.html#discussion-questions-30-minute-focus",
+    "href": "2026_law/weeks/week03-dworkin-rules/slides.html#discussion-questions-30-minute-focus",
+    "title": "🗓️ Week 05 Jurisprudence: Positivism Debates",
+    "section": "Discussion Questions (30-Minute Focus)",
+    "text": "Discussion Questions (30-Minute Focus)\n\nDoes incorporation undermine law’s authority? (Raz vs. Coleman)\nCan morality guide without pre-emption? (Waluchow/Hurd)\nExclusive or inclusive: Which better fits constitutional practice?\nImplications for hard cases like Speluncean/Riggs?\n\n\nAllocate ~10 min per question; encourage debate."
+  },
+  {
+    "objectID": "2026_law/weeks/week03-dworkin-rules/slides.html#references",
+    "href": "2026_law/weeks/week03-dworkin-rules/slides.html#references",
+    "title": "🗓️ Week 05 Jurisprudence: Positivism Debates",
+    "section": "References",
+    "text": "References\n\nHart, The Concept of Law (1961/1994).\nDworkin, Taking Rights Seriously (1977).\nMarmor, “Exclusive Legal Positivism” (2004).\nHimma, “Inclusive Legal Positivism” (2004).\nRaz, Ethics in the Public Domain (1994).\n\n\nSources for further exploration."
   },
   {
     "objectID": "2026_law/weeks/week03-dworkin-rules/page.html",
