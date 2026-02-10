@@ -1,6 +1,6 @@
 ---
-subtitle: "PHIL343A -- Aesthetics"
-title: "<font style='font-size:1em;'>🗓️ Week 05<br/> Aristotle's Poetics</font>"
+subtitle: "PHIL284: from Law's Empire pages 225-275"
+title: "<font style='font-size:1em;'>🗓️ Week 05<br/>Ronald Dworkin: Integrity in the Law (Interpretivism)</font>"
 author: Prof. [Reynolds](#)
 institute: '[Stetson University](#)'
 date: 02 September 2026
@@ -8,7 +8,7 @@ date-meta: 14 March 2023
 date-format: "DD MMM YYYY"
 toc: false
 toc-depth: 1
-toc-title: "The Art of Imitation:"
+toc-title: "Dworkins Interpretivism"
 center-title-slide: false
 from: markdown+emoji
 format:
@@ -22,23 +22,135 @@ format:
     preview-links: auto
     logo: /figures/icons/course_favicon.png
     css: /css/styles_slides.css
-    footer: 'PHIL343A -- Aesthetics Aristotle'
+    footer: 'PHIL284A -- Integrity in the Law'
 ---
 
-As the following quote shows, Bonaventure was not only committed to theology, but philosophy which according to him, was to better understand the beliefs he held. It is important to note, that philosophy was important even for what he considered matters of faith, which at times, is thought to be immune from the critical reflections that philosophy enables.
+# Additional Interpretivist Views
 
-> And so, if the writings of the philosophers are sometimes of much value in understanding truth and refuting errors, we are not departing from the purity of faith if we at times study them, especially since there are many questions of faith which cannot be settled without recourse to them. (trans. Monti 1994: 53)
+## The Orthodox View
 
-From 1243 to 1248, Bonaventure studied theology at the university of Paris. During the course of his studies, he worked with the Fransiscans, a group of Catholic organizations founded by St. Fransis of Assisi, named for the town in Italy where he was born in the year 1209. At the University of Paris, Bonaventure became a *Formed Bachelor* which meant that he would take on the academic roles of lecturing, getting involved in *the* disputes, a class of philosophical questions rooted in theology, and preaching. While a formed bachelor, not yet a master, the university's masters and its students when on strike, leading to them becoming expelled. During this conflict, Bonaventure would be elected to the Fransiscan Chair in theology though he would only teach at the Fransiscan convent which was not recognized by the University.
+Hart, H.L.A 1994, The Concept of Law, 2nd edition, Oxford: Clarendon Press. \
 
-There would be some controversy surrounding this since, though the duties Bonaventure performed where those of a Master, he was not recognized as one until 1256 by order of Pope Alexander IV. During this time however, Bonaventure was a prolific scholar producing many texts including his *Reduction of Arts to Theology* which is a reflection on theological sermons as a genre of art.
+Raz, Joseph, 1994, Ethics in the Public Domain, Oxford: Clarendon Press. \
 
->  The same mode of reasoning is found in On Retracing the Arts to Theology. Here “reduction” consists in developing analogies that move the mind from the liberal arts to theology and back again. Bonaventure argues for each point by combining one claim based on reason with another based on revelation, as though they were wall and buttress of the cathedral of theology. Philosophical reasoning, then, is an absolutely integral part of Bonaventure’s faith-based theology.^[Stanford Encyclopedia of Philosophy, bottom of section 2](https://plato.stanford.edu/entries/bonaventure/#BonaIlluArgu)
+---
 
-There are objects we access through our senses. Importantly for Bonaventure, these objects always point towards their source of being, God. But it is not merely the objects in themselves, but rather our apprehension of their "weight, number, and measure" [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/bonaventure/#BonaIlluArgu), that causes us to contemplate their "measure, beauty, and order" and to *delight* in this aspect of all that is created.
+### Mechanism of Institutional Action
 
-> The world as it is revealed to us through the senses provides the means for our re-entering ourselves and ascending to higher things. Furthermore, the senses themselves are equally signs of higher things.
+* Existence and content of legal rights and obligations solely grounded in institutional history.
+  * Rights and obligations are artifacts of institutional action
+* Institutions are authoritative: use communication to create, modify, or extinguish legal right or obligation, convey norms.
+  * Passing statutes
+  * Adopting regulations
 
->  exercising their powers of intellect and will, intellectual creatures discover the highest and most perfect object of their powers in the Divine Source of their being, since God is the First or Highest Truth and the First or Chief Good. Accordingly, intellectual creatures have God as their ultimate object, whereas all creatures have God as their Cause. Consequently, intellectual creatures show themselves to be “images” and “likenesses” of God, while they show that all creatures are “shadows” and “vestiges” of God.
+## Hybrid Interpretivism
 
-> The resolution of all our items of simple apprehension into the concept of being is metaphysically and epistemologically crucial: metaphysically, it opens up a route of argumentation that leads to the existence of God; epistemologically, such a resolution means that behind all, even the most determinate and specific, conceptions of things lies a transcendental awareness of being that informs all of our knowledge.
+* Institutionally valid norms:
+  * Norms determined by what institutions have said.
+  * Interpretation is a moral processing of these norms.
+
+---
+
+Interpretation means:
+
+> assess[ing] norms constituted by institutional communication and adjust the set in order to make it more attractive in some way . . .^[Stavropoulos, Nicos. “Legal Interpretivism.” In The Stanford Encyclopedia of Philosophy, Spring 2021, edited by Edward N. Zalta. Metaphysics Research Lab, Stanford University, 2021. https://plato.stanford.edu/archives/spr2021/entries/law-interpretivist/.]
+
+---
+
+Therefore,
+
+* Institutional input to the interpretive process . . . does not alone yield the final, complete set of legally valid norms.^[Stavropoulos, Nicos. “Legal Interpretivism.” In The Stanford Encyclopedia of Philosophy, Spring 2021, edited by Edward N. Zalta. Metaphysics Research Lab, Stanford University, 2021. https://plato.stanford.edu/archives/spr2021/entries/law-interpretivist/.]
+
+---
+
+### Variants
+
+* Law consists of both rules and principles
+ * Principled Consistency (Dworkin's Integrity): What principles justify which norms?
+
+# Principled Consistency (Dworkin's Integrity): What principles justify which norms?a
+
+What is the set of institutionally valid norms?
+
+* Which norms?
+* Which principles?
+* What makes a norm or principle count as valid?
+
+## Fundamental or constitutive explanation of legal rights and obligations.
+
+* Backward looking reports of conventionalism
+* Forward looking legal pragmatism
+* Instead, legal claims are interpretive judgments.
+* Combines conventionalism and pragmatism
+
+## Integrity and Interpretation
+
+* **Conventionalism:** judges study law reports and parliamentary records to discover what decisions have been made by which institutions conventionally recognized to have legislative power. \
+* **Pragmatism:** requires judges to think instrumentally about best rules for the future. \
+* Interpretation: asking judges to carry out interpretive studies of legal doctrine. \
+
+---
+
+### Problems
+
+* **Conventionalism:** Leaves judge with no further guide for interpreting legal record.
+* **Pragmatism:** reaches beyond legal material.
+
+## Interpretivism
+
+Recognizes that rights and obligations vary with institutional and nonmoral social facts . . .
+
+> it is both the product of and the inspiration for comprehensive interpretation of legal practice. . . . law as integrity asks [judges] to continue interpreting the same material that it claims to have successfully interpreted itself. [226]
+
+---
+
+Facts:
+
+* *institutional practice*:
+  * actions or practices of political institutions
+  * actions and psychology of agents that operate in such institutions
+
+Rights:
+
+* rights then vary with and are contingent on actions and practices of political institutions
+* theories of law then should offer an account of legal rights and obligations that explain this relation
+
+---
+
+![](./../../../figures/law/institutional-rights.png)
+
+1. Interpretation means explanation of rights and obligations
+   * grounded in moral principles and institutional practice
+2. Identifies moral principles which justify the enactment
+3. Justifying role of principles is fundamental
+
+---
+
+### Justification
+
+1. Principles / moral facts give reasons why institutional practice or some other nonmoral consideration bear on legal rights and obligations
+  * Provide explanation why legally relevant
+2. Principles determine *how* consideration of institutional practice bears on legal rights and obligations
+3. Justifying role of principles is *fundamental*
+4. Therefore, rights and obligations have genuine moral force
+
+---
+
+### E.g.,
+
+* Principles of fairness or procedural justice determine rights and obligations.
+* Such a role depends on precise reasons why enactments should have it.
+* Sometimes the above may be determined by
+  * Linguistic intentions.
+  * Other intentions, e.g., shape of the law
+
+## Dimensions of Interpretation
+
+* Fit: Interpretation must flow throughout the text
+* Selectiveness: judges which readings improve the work of the law
+
+---
+
+* Special cases:
+  * Fair notice essential to permissibility of criminal punishment.
+  * Criminal statutes affect law only as narrowly construed.
