@@ -1,6 +1,6 @@
 ---
-subtitle: "PHIL343A -- Aesthetics"
-title: "<font style='font-size:1em;'>🗓️ Week 09<br/> Thomas Aquinas</font>"
+subtitle: "PHIL284 -- Law"
+title: "<font style='font-size:1em;'>🗓️ Week 06<br/> The Crito</font>"
 author: Prof. [Reynolds](#)
 institute: '[Stetson University](#)'
 date: 02 September 2026
@@ -8,7 +8,7 @@ date-meta: 14 March 2023
 date-format: "DD MMM YYYY"
 toc: false
 toc-depth: 1
-toc-title: "The Art of Imitation:"
+toc-title: "Justice and Law"
 center-title-slide: false
 from: markdown+emoji
 format:
@@ -22,175 +22,113 @@ format:
     preview-links: auto
     logo: /figures/icons/course_favicon.png
     css: /css/styles_slides.css
-    footer: 'PHIL343A -- Aesthetics Aristotle'
+    footer: 'PHIL284 -- The Crito'
 ---
 
-# Summa Theologiae (Theologica)
-
-* 4 *Parts*: include Prima Pars (First Part), Prima Secundae Partis (First part of the second), Secundae Secundae Partis (Second Part of the Second), Tertiae Partis (Third Part).
-
-* Each part is divided into *Questions* which are further divided into *Articles*.
-
-* Articles are divided into *Objections*, *On the Contrary*, *I answer that*, and *Replies to Objections (Responses)*.
-
-# Happiness 1st part, question 5
-
-## The Key Concepts here Include: {.smaller}
-
-***Man's Final End*** – The ultimate goal of all human life. All of our other goals are chosen for the sake of this final end.
-
-***Highest Good*** – The greatest good for a human being.
-
-***Happiness*** – The final end and highest good of human life. The perfect good that objectively fulfills human nature and subjectively satisfies desire.
-
-***Object of Happiness*** – The thing in which happiness essentially consists, the attainment of which will make us truly happy.
-
-***Happiness Criteria*** – The conditions that the true object of happiness must satisfy. They are: finality, intrinsic value, purity, internality, authenticity, stability, self-sufficiency, completeness.a
-
-## Articles
-
-1. Can man attain happiness?
-
-2. Can one man be happier than another?
-
-3. Can man be happy in this life?
-
-4. Can happiness be lost once it is attained?
-
-5. Can happiness be attained through our own abilities?
-
-6. Does man attain happiness through the actions of a higher creature?
-
-7. Does man need to perform certain actions to attain happiness from God?
-
-8. Does every man desire happiness?
-
-To understand Aquinas' position on happiness, it first will help to understand his views on human nature.
-
-Following Aristotle, Aquinas' view is teleological. This means that everything in nature has a purpose or end (telos) that it is directed towards.
-
-This include:
-
-* ends
-
-* goals
-
-* and purposes
+# Crito
 
 ::: {.notes}
 
-But what are these and do we necessarily have access to them? The person who intends to rob a bank because it is enjoyable, is that person really pursuing the goal of robbery? Or is the goal something else? Is the goal of robbery really enjoyment? If so, then what is the goal of enjoyment? Is it pleasure? If so, then what is the goal of pleasure? Is it happiness? If so, then what is the goal of happiness?
-
+In the Crito, Socrates is awaiting his execution in an Athenian prison on charges of impiety against the recognized Athenian gods, and corrupting the youth of Athens. For his punishment, Socrates will forced to commit suicide by drinking the deadly poison hemlock.
 :::
 
 ---
 
-* What is their end?
-
-* What is their purpose?
+> “No, it hasn't arrived, but it looks like it will arrive today, based on the report of some people who have come from Sounion\* and who left when it was there. It's clear from this that it will arrive today, and you will have to end your life tomorrow, Socrates.” ([Woods and Pack, 2022, p. 1](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=3&annotation=83YTGSEI))
 
 ::: {.notes}
-It would seem that what this example shows is that we can be mistaken about our ends, goals, and purposes.
 
+Crito, a prominent Athenian citizen has entered Socrates' cell while Socrates was still asleep. As Socrates begins to awaken, Crito states the purpose of his visit. This purpose goes beyond a mere visit as one who will soon need to bid farewell to a trusted and deeply loved friend, and begins to implore Socrates to escape Athens.
 :::
 
 ---
 
-# Wealth
+Some Reasons for escape include:
 
-The first candidate for the object of happiness that Aquinas considers is wealth – money and possessions.
+| | |
+|---|---|
+| Eternal Separation from Friends and Family | |
+| Friends will be accused of being unfaithful | Accused by whom? |
+| Betraying Family, prioritizing Athenian laws over and above family: Betrayal | |
+| Satisfying the desires of his enemies | |
+| The trial and conviction were utterly unnecessary | |
 
-## Article 1
+## Betrayal By Friends
 
-> I answer that, It is impossible for man’s happiness to consist in wealth. For wealth is twofold, as the Philosopher [Aristotle] says (Polit. i, 3), viz., natural and artificial. Natural wealth is that which serves man as a remedy for his natural wants, such as food, drink, clothing, carriages, dwellings, and such like; while artificial wealth is that which is not a direct help to nature, as money, but is invented by the art of man, for the convenience of exchange, and as a measure of things salable.
+> “If you die, for me it won't be just one misfortune: apart from being separated from the kind of friend the like of which I will never find again, many people, moreover, who do not know me and you well will think that I could have saved you if I were willing to spend the money, but that I didn't care to. And wouldn't this indeed be the most shameful reputation, that I would seem to value money above friends? For the many will not believe that it was you yourself who refused to leave here, even though we were urging you to.” ([Woods and Pack, 2022, p. 2](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=4&annotation=Q2LNUMTE))
 
-> Now it is evident that man’s happiness cannot consist in natural wealth. For wealth of this kind is sought for the sake of something else, viz., as a support of human nature. Consequently, it cannot be man’s last end, rather is it ordained to man as to its end. Wherefore in the order of nature, all such things are below man and made for him, according to Psalm 8: “Thou hast subjected all things under his feet.”
+::: {.notes}
 
-> And as to artificial wealth, it is not sought save for the sake of natural wealth, since man would not seek it except because, by its means, he procures for himself the necessaries of life. Consequently, much less can it be considered in the light of the last end. Therefore, it is impossible for happiness, which is the last end of man, to consist in wealth.
+“But why, blessed Crito, should we care so much about the opinion of the many?” ([Woods and Pack, 2022, p. 2](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=4&annotation=R9YIBQVY))
 
-# Power
+“The best people, who are more deserving of our attention, will believe that the matter was handled in just the way it was.” ([Woods and Pack, 2022, p. 2](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=4&annotation=T5KAMIHX))
 
-## Article 4
+“If they were of any use, Crito, the many would be able to do the greatest evils, and so they would also be able to do the greatest goods, and that would be fine.” ([Woods and Pack, 2022, p. 2](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=4&annotation=IYDVH9MX))
 
-> On the contrary, Happiness is the perfect good. But power is most imperfect. For as Boethius says (De Consol. iii), “the power of man cannot relieve the gnawings of care, nor can it avoid the thorny path of anxiety.” And further on: “Think you a man is powerful who is surrounded by attendants, whom he inspires with fear indeed, but whom he fears still more?” Therefore, happiness does not consist in power.
+“But as it is they can do neither, since they cannot make a man either wise or foolish, but they do just whatever occurs to them.” ([Woods and Pack, 2022, p. 2](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=4&annotation=XTZ95XRX))
 
-> I answer that, It is impossible for happiness to consist in power; and this for two reasons. First because power has the nature of principle, as is stated in [Aristotle’s] Metaph. v, 12, whereas happiness has the nature of last end. Second, because power has relation to good and evil, whereas happiness is man’s proper and perfect good. Wherefore some happiness might consist in the good use of power, which is by virtue, rather than in power itself.
+“You're not worried, are you, about me and your other friends, how, if you were to leave here, the informers would make trouble for us because we stole you away from here, and we would be compelled either to give up all our property or a good deal of money, or suffer some other punishment at their hands?” ([Woods and Pack, 2022, p. 2](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=4&annotation=HNH2LB6A))
 
-# Honor, Fame, and Glory
+“What's more, Socrates, what you are doing doesn't seem right to me, giving yourself up when you could be saved, ready to have happen to you what your enemies would urge—and did urge—in their wish to destroy you.” ([Woods and Pack, 2022, p. 2](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=4&annotation=2WHD4UHW))
 
-## Article 2
+“I also think you are betraying your sons, whom you could raise and educate, by going away and abandoning them, and, as far as you are concerned, they can experience whatever happens to come their way, when it's likely that as orphans they'll get the usual orphans’ treatment.” ([Woods and Pack, 2022, p. 3](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=5&annotation=D3GYDEV4))
 
-> On the contrary, Happiness is in the happy. But honor is not in the honored, but rather in him who honors, and who offers deference to the person honored, as the Philosopher says (Ethic. i, 5). Therefore, happiness does not consist in honor.
+“the hearing of the charge in court, that it came to trial when it need not have, and the legal contest itself, how it was carried on” ([Woods and Pack, 2022, p. 3](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=5&annotation=ZSSETTV4))
 
-> I answer that, It is impossible for happiness to consist in honor. For honor is given to a man on account of some excellence in him; and consequently, it is a sign and attestation of the excellence that is in the person honored. Now a man’s excellence is in proportion, especially, to his happiness, which is man’s perfect good; and to its parts, i.e., those goods by which he has a certain share of happiness. And therefore honor can result from happiness, but happiness cannot principally consist therein.
+“as the absurd part of the affair, that by some badness and cowardice on our part we will be thought to have let this final act get away from us, since we did not save you, nor you save yourself, when it was possible and we could have done so if we were of the slightest use.” ([Woods and Pack, 2022, p. 3](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=5&annotation=VK9DCEHV))
 
-## Article 3
+“My dear Crito, your eagerness would be worth a lot if it were in pursuit of something righteous, but the more it is not, the more difficult it is to deal with.” ([Woods and Pack, 2022, p. 3](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=5&annotation=NRWJM6L2))
 
-> On the contrary, Happiness is man’s true good. But it happens that fame or glory is false: for as Boethius says (De Consol. iii), “many owe their renown to the lying reports spread among the people. Can anything be more shameful? For those who receive false fame, must needs blush at their own praise.” Therefore, man’s happiness does not consist in fame or glory. […]
+“What's the most reasonable way we can examine this matter? By first resuming this argument that you give about reputations.” ([Woods and Pack, 2022, p. 3](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=5&annotation=I4C68VXH))
 
-> Reply to Objection 3: Fame has no stability; in fact, it is easily ruined by false report. And if sometimes it endures, this is by accident. But happiness endures of itself, and forever.
+“that it is necessary to pay serious attention to some of the opinions that men hold and not to others.” ([Woods and Pack, 2022, p. 3](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=5&annotation=FZZ7PDJ7))
 
-# Pleasure
+“Have a look, then. Is it fair enough to say that one should not value every human opinion but only some and not others?” ([Woods and Pack, 2022, p. 4](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=6&annotation=WK36HXRV))
 
-In the second half of Question 2, Aquinas turns to internal goods, starting with pleasure or delight: pleasant experience, enjoyment, and having fun. Pleasure can take the form of either a bodily sensation (such as the taste of ice cream) or a mental attitude of taking pleasure in something (such as a job well done).
+“Shouldn't we value the good opinions, and not the worthless ones?” ([Woods and Pack, 2022, p. 4](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=6&annotation=JCZQQQIN))
 
+“Aren't the good ones the opinions of the wise, while the worthless ones come from the ignorant?” ([Woods and Pack, 2022, p. 4](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=6&annotation=X2VCPI3D))
 
+“So, then, what did we say, again, about cases such as this: should a man in training, who takes it seriously, pay any heed to the praise and blame and opinion of everyone, or only to one person, the one who is a doctor or a trainer?” ([Woods and Pack, 2022, p. 4](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=6&annotation=RAUAM6RR))
 
-## Article 6
+“So, he should fear the criticisms and welcome the praises of that one person, and not those of the many?” ([Woods and Pack, 2022, p. 4](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=6&annotation=F4VV9U25))
 
-I answer that, […] in every thing, that which pertains to its essence is distinct from its proper accident: thus in man it is one thing that he is a mortal rational animal, and another that he is a risible animal. We must therefore consider that every delight is a proper accident resulting from happiness, or from some part of happiness; since the reason that a man is delighted is that he has some fitting good, either in reality, or in hope, or at least in memory […] Therefore, it is evident that neither is delight, which results from the perfect good, the very essence of happiness, but something resulting therefrom as its proper accident.
+“He must practice and exercise, and eat and drink, in the way that seems best to that one person, the trainer and expert, more than to all the others together.” ([Woods and Pack, 2022, p. 4](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=6&annotation=GCBY87PG))
 
-# Goods of the Body
+“Well then. If he disobeys this one man and dishonors his opinion and his praises and instead honors those of the many who know nothing, won't he suffer harm?” ([Woods and Pack, 2022, p. 4](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=6&annotation=8EKPJ6AR))
 
-## Article 5
+“What is this harm, and what does it tend to do, and in what part of the disobedient person?” ([Woods and Pack, 2022, p. 4](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=6&annotation=A5X4BWN4))
 
-I answer that, It is impossible for man’s happiness to consist in the goods of the body, and this for two reasons. First, because if a thing be ordained to another as to its end, its last end cannot consist in the preservation of its being. Hence a captain does not intend as a last end the preservation of the ship entrusted to him, since a ship is ordained to something else as its end, viz., to navigation. Now just as the ship is entrusted to the captain that he may steer its course, so man is given over to his will and reason, according to Ecclus. 15:14: “God made man from the beginning and left him in the hand of his own counsel.” Now it is evident that man is ordained to something as his end, since man is not the supreme good. Therefore, the last end of man’s reason and will cannot be the preservation of man’s being.
+“It's clear that it's in the body, since this is what it destroys.” ([Woods and Pack, 2022, p. 4](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=6&annotation=9GHH9AJ7))
 
-Second, because, granted [for the sake of argument] that the end of man’s will and reason be the preservation of man’s being, it could not be said that the end of man is some good of the body. For man’s being consists in soul and body; and though the being of the body depends on the soul, yet the being of the human soul depends not on the body, as shown above [ST I, q. 75, a. 2]; and the very body is for the soul, as matter for its form, and the instruments for the man that puts them into motion, that by their means he may do his work. Wherefore all goods of the body are ordained to the goods of the soul, as to their end. Consequently, happiness, which is man’s last end, cannot consist in goods of the body.
+“but in particular justice and injustice and shameful and fine things and good and bad, which are what our current discussion is about” ([Woods and Pack, 2022, p. 4](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=6&annotation=CRWPLU76))
 
-# Goods of the Soul
+“If we do not heed his opinion we will corrupt and harm that part of us which becomes better with justice and is destroyed by injustice. Or don't you think so?” ([Woods and Pack, 2022, p. 4](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=6&annotation=W9N58ALY))
 
-## Article 7
+“Tell me, if we do not follow the opinion of the person who knows and so destroy that part of us which is improved by what is wholesome and corrupted by what sickens, is life worth living when that part is ruined? This is the body, I suppose, isn’t it?” ([Woods and Pack, 2022, p. 4](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=6&annotation=7FAHEIXZ))
 
-I answer that, As stated above [ST I-II, q. 1, a. 8], the end is twofold: namely, the thing itself, which we desire to attain, and the use, namely, the attainment or possession of that thing. If, then, we speak of man’s last end as to the thing itself which we desire as last end, it is impossible for man’s last end to be the soul itself or something belonging to it. Because the soul, considered in itself, is as something existing in potentiality: for it becomes knowing actually from being potentially knowing, and actually virtuous from being potentially virtuous. Now since potentiality is for the sake of actuality as for its fulfillment, that which in itself is in potentiality cannot be the last end. Therefore, the soul itself cannot be its own last end.
+“And is life worth living after the part of us which injustice injures” ([Woods and Pack, 2022, p. 4](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=6&annotation=UG3RZAHX))
 
-In like manner neither can anything belonging to it, whether power, habit, or act. For that good which is the last end is the perfect good fulfilling the desire. Now man’s appetite, otherwise [known as] the will, is for the universal good. And any good inherent to the soul is a participated good, and consequently a portioned good. Therefore, none of them can be man’s last end.
+“and justice benefits has been corrupted?” ([Woods and Pack, 2022, p. 5](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=7&annotation=PCGN3UK4))
 
-# Any Created Good
+“but living well.” ([Woods and Pack, 2022, p. 5](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=7&annotation=JT7TMCC7))
 
-## Article 8
+“whether it is just or unjust for me to try to leave here, when I was not acquitted by the Athenians.” ([Woods and Pack, 2022, p. 5](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=7&annotation=EYGM4TPG))
 
-It is impossible for any created good to constitute man’s happiness. For happiness is the perfect good, which lulls the appetite altogether; else it would not be the last end, if something yet remained to be desired. Now the object of the will, i.e., of man’s appetite, is the universal good; just as the object of the intellect is the universal true. Hence it is evident that naught can lull man’s will save the universal good. This is to be found, not in any creature, but in God alone, because every creature has goodness by participation. Wherefore God alone can satisfy the will of man, according to the words of Psalm 102: “Who satisfieth thy desire with good things.” Therefore, God alone constitutes man’s happiness.
+“As for the points you make about spending money and reputation and the upbringing of children, Crito, I suspect that these are really questions belonging to people who would casually put someone to death and resurrect him, if they could, without any thought—to the members of the multitude.” ([Woods and Pack, 2022, p. 5](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=7&annotation=N5NEHSZV))
 
-# Stephen Wang
+“And so, one must never act unjustly.” ([Woods and Pack, 2022, p. 6](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=8&annotation=EBHZ9AKH))
 
-## Wang-Aquinas on Human Happiness and the Natural Desire for God
+“And so, one should not repay an injustice with an injustice, as the many think, since one should never act unjustly.” ([Woods and Pack, 2022, p. 6](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=8&annotation=RK6L6PN4))
 
-1.	Humans crave happiness
-2.	Perfect happiness can only be found in God
-3.	God surpasses our very nature
-4.	Therefore, we cannot achieve perfect happiness (paradox)
+“What next? Should one cause harm, Crito, or not?” ([Woods and Pack, 2022, p. 6](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=8&annotation=LJRTZSAC))
 
-## Humans crave happiness
+“And then? Is returning a harm for a harm just, as the many say, or not just?” ([Woods and Pack, 2022, p. 6](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=8&annotation=GCJPAHQI))
 
-What are the ends of animals, plants? Can planetary bodies have an end? Aquinas’ view, following Aristotle is teleological, meaning he believes that all nature has some end to which it is perfected in. Think goal, purpose, final state, etc.
+“And see to it, Crito, that in agreeing with this you are not agreeing contrary to what you believe, because I know that few people believe it or will believe it.” ([Woods and Pack, 2022, p. 6](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=8&annotation=2K4JFHU4))
 
-1.	Non-sentient objects
+“And so, there is no common ground between those who hold this belief and those who don't; when they see each other's positions they are bound to despise one other.” ([Woods and Pack, 2022, p. 6](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=8&annotation=9YDNVV7G))
 
-2.	Sentient objects (animals, etc)
+“By attempting this deed, aren't you planning to do nothing other than destroy us, the laws, and the civic community, as much as you can?” ([Woods and Pack, 2022, p. 7](zotero://select/library/items/UL9YYE69)) ([pdf](zotero://open-pdf/library/items/U2LAYDCM?page=9&annotation=6ZMJ2S8G))
 
-3.	Human kind (rational beings)
-
----
-
-Do non-rational beings crave happiness? Art 5 would seem to suggest that happiness only belongs to mankind. “Happiness consists in an operation of the speculative rather than of the practical intellect.”
-
-1.	Highest operation, which is the intellect
-
-2.	Highest object is the Divine Good
-
-3.	Contemplation of Divine things is happiness (non-practical?)
-
-## Perfect happiness can only be found in God
-
-Therefore are two kinds of goods, perfect and imperfect.
+:::
