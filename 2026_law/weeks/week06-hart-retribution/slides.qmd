@@ -1,6 +1,6 @@
 ---
-subtitle: "PHIL343A -- Aesthetics"
-title: "<font style='font-size:1em;'>🗓️ Week 11<br/>The Moralists, Third Earl of Shaftsbury</font>"
+subtitle: "PHIL284 -- H.L.A. Hart"
+title: "<font style='font-size:1em;'>🗓️ Week 8<br/>Blame and Punishment</font>"
 author: Prof. [Reynolds](#)
 institute: '[Stetson University](#)'
 date: 02 September 2026
@@ -22,18 +22,454 @@ format:
     preview-links: auto
     logo: /figures/icons/course_favicon.png
     css: /css/styles_slides.css
-    footer: 'PHIL343A -- Aesthetics Aristotle'
+    footer: 'PHIL284A -- Hart'
 ---
 
-# Approbation and Blame
+# Punishment for the utilitarian seems to be a contradiction.
 
-> As this variety of taste is obvious to the most
-careless enquirer; so will it be found, on examina-
-tion, to be still greater in reality than in appear-
-ance. The sentiments of men often differ with
-regard to beauty and deformity of all kinds, even
-while their general discourse is the same. There
-are certain terms in every language, which import
-blame, and others praise; and all men, who use
-the same tongue, must agree in their application of them.
+## Retributive Punishment (Retributivist)
 
+***Bentham:***
+
+> Nature has placed mankind under the governance of two sovereign masters, *pain*, and *pleasure*.
+
+---
+
+In other words
+
+* Every action either promotes pleasure, or mitigates pain.
+* Therefore, we evaluate all action by its ability to promote pleasure or mitigate pain.
+
+How does punishment do either?
+
+---
+
+Ultimately, there needs to be some good attached to punishment:
+
+* But what is the good that is attached to punishment?
+
+> Other institutions have benefits associated with them, yet institutions in charge of distributing punishment seem to offer no such benefit.
+
+---
+
+Let's consider the suffering of the wrong doer in contrast with the nature of the offence committed:
+
+1. Laws are intended to mitigate pain
+
+But the harm is already done, it is impossible to mitigate a harm that has already occurred.
+
+2. Laws intended to Promote pleasure
+
+---
+
+Punishment does not seem to promote pleasure given that the harm has already occurred.
+
+1. Mitigating pain is forward looking
+2. Promoting pleasure is also forward looking
+3. Punishment is backward looking
+
+> All justifications for punishment, indeed all justifications for anything, are forward-looking in the sense that they explain how the justified thing promises to make the world a better place, or at least to avoid its getting any worse. (John Gardner, Introduction)
+
+---
+
+As such, what justifies the retributive view?
+
+> Presumably this has contributed to the use near synonym for "reason for". Which i minor determinant of the modern fashion-for which there is much  to be said-of presenting moral philosophy as an enquiry into what are and are not good reasons in ethics. (Anthony Flew, The Justification of Punishment, 296)
+
+## Two Possibilities
+
+* Intrinsic Value of the suffering of the accused
+* Extrinsic value of the suffering of the accused
+
+> The special feature of the retributive view, rather, is that it finds some intrinsic-not merely instrumental-value in a certain type of suffering, namely in suffering that is deserved.
+
+## Extrinsic value of suffering
+
+> "Punishment is punishment only where it is deserved. We must pay the penalty because we owe it, and for no other reason. If punishment is inflicted for any other reason whatever than because it is merited by a wrong, it is a gross immorality, an abominable wrong crime." (Ethical Studies, pp. 26-7).
+
+---
+
+> This is similar same as Mabbott's position. Not the same; because Mabbotts dissents from most upholders of the retributive theory---from Hegel, from Bradley, and from Dr. Ross" (loc. cit., p. 154) on the grounds that the essential link is between "crime" and "punishment" and not between "doing wrong" and "punishment".
+
+---
+
+::: {.notes}
+
+# Annotations
+(3/12/2026, 9:42:40 AM)
+
+What is the
+
+“rationale of the doctrine of mens rea,” ([Hart, 2008, p. v](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=3&annotation=HTLVDVWE))
+
+“Chapters IV, V, and VI” ([Hart, 2008, p. v](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=3&annotation=IP9SFV4T))
+
+“('acts of will', intention, and negligence).” ([Hart, 2008, p. v](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=3&annotation=KJFAUWGA))
+
+“Chapters VII and VIII” ([Hart, 2008, p. v](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=3&annotation=RZXI4AZ7))
+
+“Chapter IX, I attempt to distinguish and relate the bewilderingly many meanings of 'responsibility' and 'retribution'.” ([Hart, 2008, p. v](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=3&annotation=6H44R3ZY))
+
+“\Vhat good comes of criminal punishment?” ([Hart, 2008, p. xiii](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=11&annotation=RVP5D2PX))
+
+“What counts as a countervailing benefit?” ([Hart, 2008, p. xiii](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=11&annotation=EHTTCBLS))
+
+“countervailing benefit of criminal punishment” ([Hart, 2008, p. xiii](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=11&annotation=6LXEIYE5))
+
+“by deterrence, by public education, by incapacitation, by rehabilitation, and so on” ([Hart, 2008, p. xiii](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=11&annotation=KHTG3RQS))
+
+“suffering of the punished wrongdoer,” ([Hart, 2008, p. xiv](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=12&annotation=EMFUIWMW))
+
+“is always a cost and never a benefit of the criminal justice system.” ([Hart, 2008, p. xiv](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=12&annotation=CY76KQLR))
+
+“This broadly utilitarian approach to justifying punishment is sometimes called 'forward-looking' in contrast to the 'backwardlooking' retributive view.” ([Hart, 2008, p. xv](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=13&annotation=MVEEAJF6))
+
+“'Punishment and the Elimination of Responsibility'” ([Hart, 2008, p. xv](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=13&annotation=NEAXD3EP))
+
+“All justifications for punishment, indeed all justifications for anything” ([Hart, 2008, p. xv](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=13&annotation=ACKEA4QD))
+
+“are forward-looking in the sense that they explain how the justified thing promises to make the world a better place, or at least to avoid its getting any worse.” ([Hart, 2008, p. xv](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=13&annotation=PBEF77IS))
+
+“The special feature of the retributive view,” ([Hart, 2008, p. xv](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=13&annotation=AUSHGCD8))
+
+“is that it finds some intrinsi” ([Hart, 2008, p. xv](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=13&annotation=UMUIQEGJ))
+
+“alue in a certain type of suffering,” ([Hart, 2008, p. xv](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=13&annotation=9F4YA8EH))
+
+“On the retributive view, suffering is deserved to the extent (and only to the extent?5) that it is borne by the guilty in proportion to (and on the ground of?6) their guilt,” ([Hart, 2008, p. xv](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=13&annotation=PBUGBY9W))
+
+“where 'guilt' designates a relationship that a wrongdoer has or had to a wrong that she already committed.” ([Hart, 2008, p. xvi](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=14&annotation=MTTJH5C5))
+
+“To identify certain suffering as suffering-of-theguilty, and hence as retributively good, one must always identify the already-committed wrong in respect ofwhich the wrongdoer is guilty.8” ([Hart, 2008, p. xvi](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=14&annotation=TMD928IS))
+
+“The point is that the suffering is redeemed-turned from bad to good-by its relationship to the doing of the wrong.” ([Hart, 2008, p. xvi](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=14&annotation=6WF3ENHD))
+
+“The disagreement is about what counts as a relevant future good.” ([Hart, 2008, p. xvii](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=15&annotation=CIITAHZ5))
+
+“cite sufferingof-the-guilty” ([Hart, 2008, p. xvii](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=15&annotation=KF64AFS7))
+
+“'general justifying aim' for the criminal justice system as a whole.” ([Hart, 2008, p. xvii](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=15&annotation=C4K7XXM6))
+
+“His objection is that its practice is immoral.” ([Hart, 2008, p. xvii](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=15&annotation=SX6PDXIG))
+
+“Pursuing sufferingof-the-guilty as an intrinsic good is immoral because considered intrinsically (ie aside from its consequences) suffering is always and only an evil.” ([Hart, 2008, p. xvii](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=15&annotation=BIHTJ326))
+
+“This attitude leaves Hart with the obvious problem, faced equally by Bentham and many intervening authors with similar moral sensibilities, of how the distinction between guilt and innocence can figure in sound principles for criminal punishment.” ([Hart, 2008, p. xvii](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=15&annotation=ZVGD8BYT))
+
+“Their words often sound as if the authors had not fully grasped their meaning or did not intend the words to be taken quite literally.” ([Hart, 2008, p. 2](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=54&annotation=92NBQCKK))
+
+“No one expects judges or statesmen occupied in the business of sending people to the gallows or prison, or in making (or unmaking) laws which enable this to be done, to have much time for philosophical discussion of the principles which make it morally tolerable to do these things.” ([Hart, 2008, p. 2](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=54&annotation=93RB2FMM))
+
+“What justifies the general practice of punishment?” ([Hart, 2008, p. 3](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=55&annotation=KJYVDGEQ))
+
+“To whom may punishment be applied?” ([Hart, 2008, p. 3](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=55&annotation=4WHXKAPS))
+
+“2. JUSTIFYING AIMS AND PRINCIPLES OF DISTRIBUTION” ([Hart, 2008, p. 3](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=55&annotation=2R9QZM3L))
+
+“In both cases we have to do with a social institution of which the centrally important form is a structure of legal rules,” ([Hart, 2008, p. 3](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=55&annotation=THM2PXTB))
+
+“(aJ Definition” ([Hart, 2008, p. 4](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=56&annotation=Q8963UU2))
+
+“It must involve pain or other consequences normally considered unpleasant.” ([Hart, 2008, p. 4](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=56&annotation=5A376BI6))
+
+“It must be for an offence against legal rules.” ([Hart, 2008, p. 5](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=57&annotation=DRLU5ZBM))
+
+“It must be of an actual or supposed offender for his offence.” ([Hart, 2008, p. 5](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=57&annotation=WBZVSKST))
+
+“It must be intentionally administered by human beings other than the offender.” ([Hart, 2008, p. 5](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=57&annotation=UQZZ498M))
+
+“It must be imposed and administered by an authority constituted by a legal system against which the offence is committed.” ([Hart, 2008, p. 5](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=57&annotation=7EGP65DK))
+
+“(b) The rtature ofart offertce” ([Hart, 2008, p. 6](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=58&annotation=N2XPFQP6))
+
+“To announce to society that these actions are not to be done and to secure that fewer of them are done.” ([Hart, 2008, p. 6](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=58&annotation=JWLRRQU5))
+
+“(c) GeneralJustifying Aim” ([Hart, 2008, p. 8](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=60&annotation=MA8P765R))
+
+“designating 'Retribution' or 'Expiation' or 'Reprobation' as the justifying aim,” ([Hart, 2008, p. 9](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=61&annotation=SRIXJBYX))
+
+“Here I shall merely insist that it is one thing to use the word Retribution at this point in an account ofthe principle ofpunishment in order to designate the General Justifying Aim of the system, and quite another to use it to secure that to the question 'To whom may punishment be applied?'” ([Hart, 2008, p. 9](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=61&annotation=5AWD4MTS))
+
+“'Only to an offender for an offence'.” ([Hart, 2008, p. 9](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=61&annotation=5DKHSV7J))
+
+“the principles of justice” ([Hart, 2008, p. 9](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=61&annotation=WHDFUH5Z))
+
+“root ofretribution in Distribution.” ([Hart, 2008, p. 10](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=62&annotation=7KPT24FK))
+
+“ifso what principles limiting the unqualified pursuit of that aim or value.” ([Hart, 2008, p. 10](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=62&annotation=PNCDLQS9))
+
+“(d) Distribution” ([Hart, 2008, p. 11](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=63&annotation=QLU267AR))
+
+“The root question to be considered is, however, why we attach the moral importance which we do to retribution in Distribution.” ([Hart, 2008, p. 11](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=63&annotation=V265GZK9))
+
+“We can of course imagine that a negro might be sent to prison or executed on a false charge of rape in order to avoid widespread lynching of many others; but a system which openly empowered authorities to do this kind of thing, even if it succeeded in averting specific evils like lynching, would awaken such apprehension and insecurity that any gain from the exercise of these powers would by any utilitarian calculation be offset by the misery caused by their existence.” ([Hart, 2008, p. 12](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=64&annotation=FZCDP24H))
+
+“Certainly vicarious punishment of an offender's family might do so and legal systems have occasionally though exceptionally resorted to this. An example of it is the Roman Lex Quisquis providing for the punishment of the children of those guilty of majestas. 15 In extreme cases many might still think it right to resort to these expedients but we should do so with the sense of sacrificing an important principle. We should be conscious ofchoosing the lesser of two evils, and this would be inexplicable if the principle sacrificed to utility were itselfonly a requirement of utility.” ([Hart, 2008, p. 12](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=64&annotation=SXRLA66D))
+
+“This is shown by the fact that we attach importance to the restrictive principle that only offenders may be punished, even where breach of this law might not be thought immoral.” ([Hart, 2008, p. 12](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=64&annotation=XJDPNVYS))
+
+“3. JUSTIFICATION, EXCUSE, AND MITIGATION” ([Hart, 2008, p. 13](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=65&annotation=9NEU5W4H))
+
+“legal doctrine” ([Hart, 2008, p. 210](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=262&annotation=SVQ9PK7P))
+
+“which requires,” ([Hart, 2008, p. 210](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=262&annotation=YBDXKF6T))
+
+“liability to punishment,” ([Hart, 2008, p. 210](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=262&annotation=6FYLX6V2))
+
+“that the person to be punished should,” ([Hart, 2008, p. 210](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=262&annotation=B35YYIQM))
+
+“have had a certain knowledge” ([Hart, 2008, p. 210](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=262&annotation=LQI36P3D))
+
+“intention,” ([Hart, 2008, p. 210](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=262&annotation=9ENVS373))
+
+“possessed certain powers of understanding and control.” ([Hart, 2008, p. 210](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=262&annotation=ACMGM9DM))
+
+“A central theme of these essays is that it is not only within the framework of a retributive theory of punishment that insistence on the importance of these restrictions makes sense; there are important reasons, both moral and prudential, for adhering to these restrictions which are perfectly consistent with a general utilitarian conception of the aim of punishment.” ([Hart, 2008, p. 210](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=262&annotation=NQ5Q29ZW))
+
+“two meanings of 'retribution'” ([Hart, 2008, p. 210](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=262&annotation=XHHKVZ87))
+
+“two meanings of 'responsibility'.” ([Hart, 2008, p. 211](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=263&annotation=GA4R79TP))
+
+“responsible for his actions.” ([Hart, 2008, p. 211](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=263&annotation=5BHNM45S))
+
+“behaved quite irresponsibly,” ([Hart, 2008, p. 211](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=263&annotation=WPAID3Y4))
+
+“showed that he was not a responsible person.” ([Hart, 2008, p. 211](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=263&annotation=NK2UHPAW))
+
+“responsible for his negligent conduct,” ([Hart, 2008, p. 211](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=263&annotation=YPBPJ8WU))
+
+“legally responsible” ([Hart, 2008, p. 211](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=263&annotation=44255NRC))
+
+“he is morally responsible” ([Hart, 2008, p. 211](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=263&annotation=DS7ZETMC))
+
+“reduced by division and classification.” ([Hart, 2008, p. 211](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=263&annotation=X4F2MKQK))
+
+“(a) Role-Responsibility” ([Hart, 2008, p. 212](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=264&annotation=CGUBR2EG))
+
+“(b) Causal Responsibility” ([Hart, 2008, p. 212](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=264&annotation=5TZMBDM2))
+
+“(c) Liability-Responsibility” ([Hart, 2008, p. 212](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=264&annotation=QY6UFGP7))
+
+“(d) Capacity-Responsibility.” ([Hart, 2008, p. 212](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=264&annotation=F9V92IFC))
+
+“whenever a person occupies a distinctive place or office in a social organization, to which specific duties are attached to provide for the welfare of others or to advance in some specific way the aims or purposes ofthe organization, he is properly said to be responsible for the performance of these duties,” ([Hart, 2008, p. 212](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=264&annotation=9NMM4SJA))
+
+“So 'role' in my classification is extended to include a task assigned to any person by agreement or otherwise.” ([Hart, 2008, p. 213](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=265&annotation=ESIF788F))
+
+“But to form fours or present arms would scarcely be said to be the private's responsibility;” ([Hart, 2008, p. 213](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=265&annotation=637H8R5Y))
+
+“If on the other hand a soldier was ordered to deliver a message to H.Q. or to conduct prisoners to a base camp, he might well be said to be responsible for doing these things, and these things to be his responsibility.” ([Hart, 2008, p. 213](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=265&annotation=U3EG8KKR))
+
+“duties of a relatively complex or extensive kind,” ([Hart, 2008, p. 213](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=265&annotation=2B2BGRKD))
+
+“defining a 'sphere of responsibil” ([Hart, 2008, p. 213](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=265&annotation=LLYRZ8M4))
+
+“while short-lived duties of a very simple kind, to do or not do some specific act on a particular occasion, are not termed responsibilities.” ([Hart, 2008, p. 213](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=265&annotation=DLZY4ZQC))
+
+“A responsible person is one who is disposed to take his duties seriously; to think about them, and to make serious efforts to fulfil them.” ([Hart, 2008, p. 213](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=265&annotation=TYP5K46F))
+
+“'The long drought was responsible for the famine in India.'” ([Hart, 2008, p. 214](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=266&annotation=UCQRGHTJ))
+
+“'was responsible for' the words 'caused' or 'produced' or some other causal expression in referring to consequences, results, or outcomes.” ([Hart, 2008, p. 214](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=266&annotation=9UVTDHUH))
+
+“'His neglect was responsible for her distress.' 'The Prime Minister's speech was responsible for the panic.' 'Disraeli was responsible for the defeat of the Government.' 'The icy condition of the road was responsible for the accident.'” ([Hart, 2008, p. 214](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=266&annotation=BGW5QN5M))
+
+“If it is said of a living person, who has in fact caused some disaster, that he is responsible for it, this is not, or not merely, an example of causal responsibility, but of what I term” ([Hart, 2008, p. 214](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=266&annotation=762V25GI))
+
+“'liability-responsibility';” ([Hart, 2008, p. 214](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=266&annotation=TW4WUCZ7))
+
+“asserts his liability” ([Hart, 2008, p. 214](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=266&annotation=EWQCN2M5))
+
+“also true that he is responsible” ([Hart, 2008, p. 214](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=266&annotation=AMC9TAJX))
+
+“It is sometimes suggested that, though we may speak of a human” ([Hart, 2008, p. 214](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=266&annotation=JN6GTXQW))
+
+“do not speak of a person,” ([Hart, 2008, p. 215](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=267&annotation=W6MEIBYL))
+
+“distinct from his actions,” ([Hart, 2008, p. 215](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=267&annotation=QESTN59C))
+
+“as responsible for an outcome,” ([Hart, 2008, p. 215](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=267&annotation=DSBHW9E9))
+
+“unless” ([Hart, 2008, p. 215](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=267&annotation=Y9VIJR3H))
+
+“is felt to deserve censure” ([Hart, 2008, p. 215](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=267&annotation=4F49DHRL))
+
+“or praise” ([Hart, 2008, p. 215](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=267&annotation=R6I49NMH))
+
+“'Disraeli was responsible for the defeat of the Government' need not carry even an implication that he was deserving of censure or praise;” ([Hart, 2008, p. 215](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=267&annotation=JERRASX9))
+
+“'X was responsible for Y'” ([Hart, 2008, p. 215](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=267&annotation=IKULLEKI))
+
+“'X is responsible for Y'” ([Hart, 2008, p. 215](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=267&annotation=H5M6E7VY))
+
+“a statement of liability-responsibility.” ([Hart, 2008, p. 215](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=267&annotation=FBVPL5GY)) Sufficient but not necessary
+
+“4. LEGAL LIABILITY-RESPONSIBILITY” ([Hart, 2008, p. 215](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=267&annotation=RDX6NP8P))
+
+“legal or moral form, it was not found necessary to treat these separately.” ([Hart, 2008, p. 215](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=267&annotation=R7D2A4RG))
+
+“liability-responsibility, separate treatment seems advisable” ([Hart, 2008, p. 215](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=267&annotation=6UKS99TH))
+
+“responsibility seems to have a wider extension in relation” ([Hart, 2008, p. 215](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=267&annotation=ADPVCSCQ))
+
+“between law and morality,” ([Hart, 2008, p. 215](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=267&annotation=C8FQQ6CT))
+
+“legal rules require men to act or abstain from action” ([Hart, 2008, p. 215](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=267&annotation=7G2SM7NS))
+
+“liable” ([Hart, 2008, p. 215](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=267&annotation=87D6NL2H))
+
+“punishment for his misdeeds” ([Hart, 2008, p. 215](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=267&annotation=SG399ZBG))
+
+“compensation to persons injured thereby,” ([Hart, 2008, p. 215](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=267&annotation=7UK3AP7N))
+
+“men to be made to pay compensation” ([Hart, 2008, p. 216](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=268&annotation=9NIFN739))
+
+“caused by” ([Hart, 2008, p. 216](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=268&annotation=RV4II5XJ))
+
+“servants or employees.” ([Hart, 2008, p. 216](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=268&annotation=KNBUUMBV))
+
+“'responsibility'” ([Hart, 2008, p. 216](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=268&annotation=M93JJ8VR))
+
+“legally responsible” ([Hart, 2008, p. 216](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=268&annotation=53LLQMW9))
+
+“under legal rules he is liable to be made either to suffer or to pay compensation in certain eventualities” ([Hart, 2008, p. 216](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=268&annotation=MD5L8L63))
+
+“'he is legally responsible for Y'” ([Hart, 2008, p. 216](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=268&annotation=3YQBQ6V7))
+
+“'he is legally liable to be punished or to be made to pay compensation for Y'” ([Hart, 2008, p. 216](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=268&annotation=Y8VCQUXI))
+
+“responsibility is liability to punishment'.2” ([Hart, 2008, p. 216](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=268&annotation=8F8S4LYX))
+
+“liable to be punished” ([Hart, 2008, p. 217](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=269&annotation=EAL8GGWE))
+
+“made to pay compensation” ([Hart, 2008, p. 217](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=269&annotation=AJ469HHQ))
+
+“narrower and more specific issue.” ([Hart, 2008, p. 217](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=269&annotation=VFBZTQQ5))
+
+“narrower issue whether any of a certain range of conditions” ([Hart, 2008, p. 217](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=269&annotation=NI7YJ6DM))
+
+“psychological” ([Hart, 2008, p. 217](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=269&annotation=XHJFUZ8S))
+
+“are satisfied,” ([Hart, 2008, p. 217](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=269&annotation=JWV85XAI))
+
+“liability to punishment” ([Hart, 2008, p. 217](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=269&annotation=59LSB7ID))
+
+“questions of responsibility,” ([Hart, 2008, p. 217](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=269&annotation=HACELIVS))
+
+“mental abnormality, immaturity, mens rea, strict and vicarious liability, proximate cause” ([Hart, 2008, p. 217](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=269&annotation=RZ3IZ9P7))
+
+“connexion between acts and harm sufficient for liability.” ([Hart, 2008, p. 217](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=269&annotation=AGS72MJL))
+
+“'criteria' of responsibility.” ([Hart, 2008, p. 217](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=269&annotation=D98KVHZG))
+
+“(i) mental or psychological conditions;” ([Hart, 2008, p. 217](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=269&annotation=446MN2V8))
+
+“(ii) causal or other forms of connexion between act and harm;” ([Hart, 2008, p. 217](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=269&annotation=XID9TIBC))
+
+“(iii) personal relationships” ([Hart, 2008, p. 217](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=269&annotation=U95PCNT2))
+
+“rendering one man liable to be punished or to pay for the acts of another.” ([Hart, 2008, p. 218](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=270&annotation=X8K7Q975))
+
+“(i) Mental or psychological criteria ofresponsibility.” ([Hart, 2008, p. 218](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=270&annotation=9WJWNVGJ))
+
+“satisfied some mental or psychological condition required for liability,” ([Hart, 2008, p. 218](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=270&annotation=G76689B4))
+
+“whether liability was strict or absolute,” ([Hart, 2008, p. 218](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=270&annotation=YAYQGFF2))
+
+“have had the capacity to understand what he is required by law” ([Hart, 2008, p. 218](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=270&annotation=5LQUHMVJ))
+
+“to do or not to do,” ([Hart, 2008, p. 218](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=270&annotation=U5VQDMMP))
+
+“intention or knowledge,” ([Hart, 2008, p. 218](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=270&annotation=X94DFSAE))
+
+“mens rea,” ([Hart, 2008, p. 218](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=270&annotation=A8PISQGQ))
+
+“questions concerning general capacity are described as matters of responsibility” ([Hart, 2008, p. 218](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=270&annotation=U7R83WZZ))
+
+“presence or absence of knowledge or intention” ([Hart, 2008, p. 218](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=270&annotation=WMCHEERP))
+
+“referred to the topic of 'fault'” ([Hart, 2008, p. 218](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=270&annotation=I3ZIDSQ6))
+
+“general capacity” ([Hart, 2008, p. 219](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=271&annotation=ZRMQ5N7L))
+
+“knowledge or intention accompanying a particular action;” ([Hart, 2008, p. 219](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=271&annotation=R8BH7Y4K))
+
+“mens rea” ([Hart, 2008, p. 219](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=271&annotation=AMITJP8S))
+
+“all the variety of psychological conditions required for liability by the law,” ([Hart, 2008, p. 219](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=271&annotation=HPQN2D6K))
+
+“excused from punishment because of lack of intention or some ordinary accident or mistake” ([Hart, 2008, p. 219](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=271&annotation=AWS4ZNUW))
+
+“the person held not to be criminally responsible on account of immaturity or insanity” ([Hart, 2008, p. 219](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=271&annotation=I8ZGT5KD))
+
+“not to have the requisite mens rea.” ([Hart, 2008, p. 219](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=271&annotation=H75CWDR5))
+
+“yet all the psychological conditions of liability are to be found discussed by legal writers under such headings as 'Criminal Responsibility' or 'Principles of Criminal Responsibility'.” ([Hart, 2008, p. 219](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=271&annotation=W8EC8QSM))
+
+“The phrase 'responsible for his actions' is, as I have observed, frequently used to refer” ([Hart, 2008, p. 219](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=271&annotation=I8SJ9HKV))
+
+“to the capacity-responsibility of the normal person, and, so used, refers to one of the major criteria of liability-responsibility.” ([Hart, 2008, p. 220](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=272&annotation=BKBX3UMX))
+
+“liability-responsibility itself,” ([Hart, 2008, p. 220](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=272&annotation=Q4LNWKQK))
+
+“liability to punishment so far as such liability depends on psychological conditions,” ([Hart, 2008, p. 220](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=272&annotation=PCGDP8BS))
+
+“(ii) Causal or other forms ofconnexion with harm.” ([Hart, 2008, p. 220](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=272&annotation=SMURTE9Q))
+
+“not limited in their scope to psychological conditions” ([Hart, 2008, p. 220](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=272&annotation=3859KI5E))
+
+“connexion between a person's act and some harmful outcome” ([Hart, 2008, p. 220](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=272&annotation=QFZ2UGSP))
+
+“is sufficient” ([Hart, 2008, p. 220](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=272&annotation=BCVR72T9))
+
+“too remote a consequence of his acts for them to count as its cause” ([Hart, 2008, p. 220](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=272&annotation=ISP2TI7J))
+
+“some other form of connexion or relationship between the defendant and the harm,” ([Hart, 2008, p. 220](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=272&annotation=R542LB5K))
+
+“is a condition of civil responsibility” ([Hart, 2008, p. 220](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=272&annotation=CXF8FWIV))
+
+“legally responsible for the harm.” ([Hart, 2008, p. 220](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=272&annotation=ZDHZXUXX))
+
+“phrased in terms of liability” ([Hart, 2008, p. 220](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=272&annotation=M8ITCYYE))
+
+“(iii) Relationship with the agent.” ([Hart, 2008, p. 220](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=272&annotation=A3WHHJYJ))
+
+“hould himself have done what the law forbids,” ([Hart, 2008, p. 221](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=273&annotation=N579W32H))
+
+“It appears, therefore, that there are diverse types of criteria of legal liability-responsibility:” ([Hart, 2008, p. 221](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=273&annotation=6QHT8GE7))
+
+“most prominent consist of certain mental elements,” ([Hart, 2008, p. 221](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=273&annotation=YJGBZQUZ))
+
+“also causal or other connexions between a person and harm,” ([Hart, 2008, p. 221](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=273&annotation=YZAZCPTY))
+
+“presence of some relationship,” ([Hart, 2008, p. 221](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=273&annotation=PMCVTVWC))
+
+“The first question is what general types of outer conduct (actus reus) or what sorts of harm are required for liability?” ([Hart, 2008, p. 221](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=273&annotation=M5XFHXGG))
+
+“how closely connected” ([Hart, 2008, p. 221](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=273&annotation=SR7YCSAI))
+
+“to what extent must the embodied mind or will be the author ofthe conduct” ([Hart, 2008, p. 221](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=273&annotation=R6L2FM6N))
+
+“appropriate bodily movements?” ([Hart, 2008, p. 221](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=273&annotation=F4LTCWTE))
+
+“capacity ofcontrol and with a certain knowledge or intention?” ([Hart, 2008, p. 222](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=274&annotation=8E2ENZZN))
+
+“legal responsibility and legal liability have the same meaning,” ([Hart, 2008, p. 222](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=274&annotation=HH93ABRB))
+
+“legally responsible” ([Hart, 2008, p. 222](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=274&annotation=KI3CPYMI))
+
+“connexion with the act or harm is sufficient” ([Hart, 2008, p. 222](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=274&annotation=RMGPAK8X))
+
+“Simpson” ([Hart, 2008, p. 222](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=274&annotation=6SP2YHBS))
+
+“insists on the strong connexion between statements of legal responsibility and moral judgment,” ([Hart, 2008, p. 222](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=274&annotation=RF8HXERK))
+
+“legally responsible” ([Hart, 2008, p. 222](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=274&annotation=P2YERXZG))
+
+“morally blameworthy,” ([Hart, 2008, p. 222](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=274&annotation=6TCAEIIG))
+
+“where this is not so,” ([Hart, 2008, p. 223](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=275&annotation=KXHCMDS8))
+
+“'liability'” ([Hart, 2008, p. 223](zotero://select/library/items/IRV2M2N4)) ([pdf](zotero://open-pdf/library/items/ASUAAIJV?page=275&annotation=UH7UA2FA))
+
+:::
